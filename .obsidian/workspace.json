@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/操作系统复习.md",
+                "file": "考研复习/测试/text_1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "操作系统复习"
-            }
-          },
-          {
-            "id": "9e44d773d6c6d0c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研复习/真题压轴同源150.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "真题压轴同源150"
-            }
-          },
-          {
-            "id": "85c375a902abbaa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研复习/测试/text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "text"
+              "title": "text_1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研复习/英语真题词汇.md",
+                "file": "考研复习/测试/text_1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "英语真题词汇 的反向链接列表"
+              "title": "text_1 的反向链接列表"
             }
           },
           {
@@ -168,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/测试/text.md"
+                "file": "考研复习/测试/text_1.md"
               },
               "icon": "lucide-list",
-              "title": "text 的大纲"
+              "title": "text_1 的大纲"
             }
           },
           {
@@ -184,8 +155,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,56 +174,57 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85c375a902abbaa0",
+  "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
-    "12.md",
+    "考研复习/测试/行列式.md",
+    "考研复习/测试/text_1.md",
+    "考研复习/测试/数学一专项.md",
+    "考研复习/测试/二次型.md",
+    "考研复习/测试/特征值与特征向量.md",
+    "考研复习/测试/方程组.md",
+    "考研复习/测试/向量.md",
+    "考研复习/测试/矩阵.md",
     "考研复习/测试/text.md",
-    "考研复习/测试/text_out.md",
-    "高等数学.canvas",
-    "text_out.canvas",
-    "考研复习/算错.md",
-    "考研复习/测试/assets/ffg.png",
-    "11.md",
-    "考研复习/英语作文.md",
+    "求二次型的解.canvas",
+    "text_1.canvas",
     "考研复习/测试/preview.html",
     "考研复习/测试/info.json",
-    "考研复习/测试/assets/zzn.png",
-    "考研复习/测试/assets/zyw.png",
-    "考研复习/测试/assets/zxa.png",
-    "考研复习/测试/assets/zwp.png",
-    "考研复习/测试/assets/zvw.png",
-    "考研复习/测试/assets/ygy.png",
-    "考研复习/测试/assets/ygs.png",
-    "考研复习/测试/assets/yed.png",
-    "考研复习/测试/assets/yds.png",
+    "考研复习/测试/assets/zzf.png",
+    "考研复习/测试/assets/zyi.png",
+    "考研复习/测试/assets/zyg.png",
+    "考研复习/测试/assets/zxv.png",
+    "考研复习/测试/assets/zvs.png",
+    "考研复习/测试/assets/zvh.png",
+    "考研复习/测试/assets/ztx.png",
+    "考研复习/测试/assets/ztm.png",
+    "考研复习/测试/assets/zti.png",
+    "考研复习/测试/assets/zrt.png",
     "考研复习/测试/assets",
-    "考研复习/测试",
-    "考研复习/高等数学.md",
-    "考研复习/概率论错题集.md",
-    "未命名.md",
-    "考研复习/数学试卷错题.md",
-    "考研复习/政治.md",
-    "考研复习/真题压轴同源150.md",
-    "考研复习/数学真题整理.md",
-    "考研复习/线性代数.md",
-    "考研复习/线性代数错题集.md",
-    "考研复习/线代补充.md",
-    "考研复习/高等数学错题集.md",
+    "考研复习/测试/求二次型的解.md",
+    "考研复习/测试/二次型的秩或矩阵.md",
+    "考研复习/测试/标准型.md",
+    "考研复习/测试/正定.md",
+    "考研复习/测试/合同.md",
+    "考研复习/测试/正负惯性指数.md",
+    "考研复习/测试/求可逆阵，使得A=P转置EP  {求可逆阵使得a=p转置ep}.md",
+    "考研复习/测试/求二次型最值.md",
+    "考研复习/测试/一个二次型变成另一个二次型，求变换矩阵.md",
+    "考研复习/测试/规范形.md",
     "考研复习/操作系统复习.md",
-    "考研复习/十年真题.md",
-    "考研复习/英语真题词汇.md",
-    "考研复习/英语近似词.md",
-    "考研复习/数据结构.md",
-    "考研复习/操作系统真题.md",
-    "考研复习/概率论.md",
+    "assets/xrg.png.md",
+    "assets",
+    "考研复习/测试/text_out.md",
+    "11.md",
+    "text_out.canvas",
+    "行列式.md",
+    "特征值与特征向量.md",
+    "高等数学.canvas",
+    "考研复习/测试",
     "未命名.canvas",
-    "考研复习/错题分习题集.md",
-    "未命名 1.md",
     "Untitled1.sheet",
     "Untitled.sheet",
     "编程语言/images",
     "经典书籍/images",
-    "考研复习/images",
-    "杂项"
+    "考研复习/images"
   ]
 }

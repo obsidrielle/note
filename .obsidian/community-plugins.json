@@ -13,5 +13,6 @@
   "templater-obsidian",
   "obsidian-completr",
   "link-exploder",
-  "canvas-link-optimizer"
+  "canvas-link-optimizer",
+  "note-refactor-obsidian"
 ]
