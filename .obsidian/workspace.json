@@ -53,13 +53,16 @@
             "id": "62a9b8c4eba2f065",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/高等数学.md",
-                "mode": "source",
-                "source": false
+                "file": "高等数学.canvas",
+                "viewState": {
+                  "x": 751,
+                  "y": 3561,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "高等数学"
             }
           }
@@ -182,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学.md"
+                "file": "高等数学.canvas"
               },
               "icon": "lucide-list",
               "title": "高等数学 的大纲"
@@ -220,6 +223,10 @@
   },
   "active": "62a9b8c4eba2f065",
   "lastOpenFiles": [
+    "考研复习/高等数学.md",
+    "高等数学.canvas",
+    "考研复习/概率论错题集.md",
+    "未命名.md",
     "考研复习/数学试卷错题.md",
     "考研复习/政治.md",
     "考研复习/images/e1123ea7efc5cb7c90581950a1def554.gif",
@@ -237,19 +244,16 @@
     "考研复习/images/Pasted image 20241026141952.png",
     "考研复习/十年真题.md",
     "考研复习/英语真题词汇.md",
-    "考研复习/高等数学.md",
     "考研复习/images/Pasted image 20241025154144.png",
     "考研复习/images/Pasted image 20241025151256.png",
     "考研复习/images/Pasted image 20241025144054.png",
     "考研复习/英语近似词.md",
-    "未命名.md",
     "考研复习/images/Pasted image 20241024160004.png",
     "考研复习/images/Pasted image 20241024155954.png",
     "考研复习/images/Pasted image 20241023215712.png",
     "考研复习/数据结构.md",
     "考研复习/操作系统真题.md",
     "考研复习/概率论.md",
-    "考研复习/概率论错题集.md",
     "未命名.canvas",
     "考研复习/错题分习题集.md",
     "未命名 1.md",
