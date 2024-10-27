@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/操作系统复习.md",
+                "file": "考研复习/数据结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统复习"
+              "title": "数据结构"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研复习/操作系统复习.md",
+                "file": "考研复习/数据结构.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "操作系统复习 的反向链接列表"
+              "title": "数据结构 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研复习/操作系统复习.md",
+                "file": "考研复习/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "操作系统复习 的出链列表"
+              "title": "数据结构 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/操作系统复习.md"
+                "file": "考研复习/数据结构.md"
               },
               "icon": "lucide-list",
-              "title": "操作系统复习 的大纲"
+              "title": "数据结构 的大纲"
             }
           },
           {
@@ -177,6 +177,7 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/操作系统复习.md",
     "考研复习/概率论.md",
     "考研复习/高等数学.md",
     "考研复习/高等数学错题集.md",
@@ -216,7 +217,6 @@
     "考研复习/测试/求二次型最值.md",
     "考研复习/测试/一个二次型变成另一个二次型，求变换矩阵.md",
     "考研复习/测试/规范形.md",
-    "考研复习/操作系统复习.md",
     "assets/xrg.png.md",
     "assets",
     "考研复习/测试/text_out.md",
