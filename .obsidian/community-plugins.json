@@ -12,5 +12,6 @@
   "obsidian-git",
   "templater-obsidian",
   "obsidian-completr",
-  "link-exploder"
+  "link-exploder",
+  "canvas-link-optimizer"
 ]

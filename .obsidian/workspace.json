@@ -41,33 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文.md",
+                "file": "考研复习/测试/text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语作文"
-            }
-          },
-          {
-            "id": "62a9b8c4eba2f065",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "高等数学.canvas",
-                "viewState": {
-                  "x": 751,
-                  "y": 3561,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "高等数学"
+              "title": "text"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学.canvas"
+                "file": "考研复习/测试/text.md"
               },
               "icon": "lucide-list",
-              "title": "高等数学 的大纲"
+              "title": "text 的大纲"
             }
           },
           {
@@ -221,54 +204,56 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62a9b8c4eba2f065",
+  "active": "85c375a902abbaa0",
   "lastOpenFiles": [
-    "考研复习/高等数学.md",
+    "12.md",
+    "考研复习/测试/text.md",
+    "考研复习/测试/text_out.md",
     "高等数学.canvas",
+    "text_out.canvas",
+    "考研复习/算错.md",
+    "考研复习/测试/assets/ffg.png",
+    "11.md",
+    "考研复习/英语作文.md",
+    "考研复习/测试/preview.html",
+    "考研复习/测试/info.json",
+    "考研复习/测试/assets/zzn.png",
+    "考研复习/测试/assets/zyw.png",
+    "考研复习/测试/assets/zxa.png",
+    "考研复习/测试/assets/zwp.png",
+    "考研复习/测试/assets/zvw.png",
+    "考研复习/测试/assets/ygy.png",
+    "考研复习/测试/assets/ygs.png",
+    "考研复习/测试/assets/yed.png",
+    "考研复习/测试/assets/yds.png",
+    "考研复习/测试/assets",
+    "考研复习/测试",
+    "考研复习/高等数学.md",
     "考研复习/概率论错题集.md",
     "未命名.md",
     "考研复习/数学试卷错题.md",
     "考研复习/政治.md",
-    "考研复习/images/e1123ea7efc5cb7c90581950a1def554.gif",
-    "考研复习/英语作文.md",
     "考研复习/真题压轴同源150.md",
-    "考研复习/images/Pasted image 20241026224951.png",
-    "考研复习/images/Pasted image 20241026222436.png",
     "考研复习/数学真题整理.md",
-    "考研复习/算错.md",
     "考研复习/线性代数.md",
     "考研复习/线性代数错题集.md",
     "考研复习/线代补充.md",
     "考研复习/高等数学错题集.md",
     "考研复习/操作系统复习.md",
-    "考研复习/images/Pasted image 20241026141952.png",
     "考研复习/十年真题.md",
     "考研复习/英语真题词汇.md",
-    "考研复习/images/Pasted image 20241025154144.png",
-    "考研复习/images/Pasted image 20241025151256.png",
-    "考研复习/images/Pasted image 20241025144054.png",
     "考研复习/英语近似词.md",
-    "考研复习/images/Pasted image 20241024160004.png",
-    "考研复习/images/Pasted image 20241024155954.png",
-    "考研复习/images/Pasted image 20241023215712.png",
     "考研复习/数据结构.md",
     "考研复习/操作系统真题.md",
     "考研复习/概率论.md",
     "未命名.canvas",
     "考研复习/错题分习题集.md",
     "未命名 1.md",
-    "未命名 2.md",
-    "杂项/vscode.md",
-    "算法/LeetCode Contest 390.md",
     "Untitled1.sheet",
     "Untitled.sheet",
     "编程语言/images",
     "经典书籍/images",
     "考研复习/images",
-    "杂项",
-    "经典书籍",
-    "算法",
-    "考研复习",
-    "库和框架"
+    "杂项"
   ]
 }
