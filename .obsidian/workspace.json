@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/英语真题词汇.md",
+                "file": "考研复习/线性代数错题集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语真题词汇"
+              "title": "线性代数错题集"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语真题词汇.md"
+                "file": "考研复习/线性代数错题集.md"
               },
               "icon": "lucide-list",
-              "title": "英语真题词汇 的大纲"
+              "title": "线性代数错题集 的大纲"
             }
           },
           {
@@ -177,18 +177,36 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
-    "考研复习/英语作文.md",
-    "考研复习/真题压轴同源150.md",
-    "考研复习/政治.md",
+    "考研复习/英语近似词.md",
+    "考研复习/英语真题词汇.md",
     "考研复习/线性代数.md",
+    "考研复习/线代补充.md",
+    "考研复习/数学真题整理.md",
     "考研复习/数学试卷错题.md",
+    "杂项/vscode.md",
+    "考研复习/images/3b79ae0143edb392ab0374d99db176c8_720.jpg",
+    "考研复习/images/Pasted image 20240414223436.png",
+    "考研复习/images/Pasted image 20240414210516.png",
+    "考研复习/images/Pasted image 20240507180700.png",
+    "考研复习/images/Pasted image 20240506183402.png",
+    "考研复习/images/Pasted image 20240506172107.png",
+    "考研复习/images/Pasted image 20240416195359.png",
+    "考研复习/images/Pasted image 20240414211625.png",
+    "考研复习/images/Pasted image 20240506132545.png",
+    "考研复习/images/Pasted image 20240505201144.png",
+    "images",
     "考研复习/操作系统真题.md",
     "考研复习/操作系统复习.md",
+    "考研复习/政治.md",
+    "考研复习/真题压轴同源150.md",
+    "考研复习/线性代数错题集.md",
+    "考研复习/高等数学错题集.md",
+    "考研复习/十年真题.md",
+    "考研复习/概率论错题集.md",
     "考研复习/概率论.md",
-    "考研复习/数学真题整理.md",
+    "考研复习/英语作文.md",
     "考研复习/高等数学.md",
     "考研复习/数据结构.md",
-    "考研复习/高等数学错题集.md",
     "考研复习/测试/行列式.md",
     "行列式.canvas",
     "考研复习/测试/向量.md",
@@ -197,28 +215,11 @@
     "考研复习/测试/二次型.md",
     "考研复习/测试/特征值与特征向量.md",
     "考研复习/测试/方程组.md",
-    "考研复习/测试/矩阵.md",
-    "考研复习/测试/text.md",
     "求二次型的解.canvas",
     "text_1.canvas",
     "考研复习/测试/preview.html",
     "考研复习/测试/info.json",
-    "考研复习/测试/assets/zzf.png",
-    "考研复习/测试/assets/zyi.png",
-    "考研复习/测试/assets/zyg.png",
-    "考研复习/测试/assets/zxv.png",
-    "考研复习/测试/assets/zvs.png",
-    "考研复习/测试/assets/zvh.png",
-    "考研复习/测试/assets/ztx.png",
-    "考研复习/测试/assets/ztm.png",
-    "考研复习/测试/assets/zti.png",
-    "考研复习/测试/assets/zrt.png",
     "考研复习/测试/assets",
-    "考研复习/测试/求二次型的解.md",
-    "考研复习/测试/二次型的秩或矩阵.md",
-    "考研复习/测试/标准型.md",
-    "考研复习/测试/正定.md",
-    "考研复习/测试/合同.md",
     "assets",
     "text_out.canvas",
     "高等数学.canvas",
@@ -227,7 +228,6 @@
     "Untitled1.sheet",
     "Untitled.sheet",
     "编程语言/images",
-    "经典书籍/images",
-    "考研复习/images"
+    "经典书籍/images"
   ]
 }
