@@ -15,9 +15,9 @@
               "state": {
                 "file": "考研复习/高等数学/级数审敛.canvas",
                 "viewState": {
-                  "x": -367,
-                  "y": -540,
-                  "zoom": 0
+                  "x": -561.3754706038258,
+                  "y": -192.36302523516684,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -180,8 +180,11 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
-    "考研复习/高等数学.md",
+    "考研复习/高等数学/images/Pasted image 20241030134444.png",
+    "考研复习/高等数学/images",
+    "考研复习/高等数学/基本性质.md",
     "考研复习/高等数学/级数审敛.canvas",
+    "考研复习/高等数学.md",
     "考研复习/高等数学",
     "考研复习/英语作文.md",
     "考研复习/政治.md",
@@ -219,7 +222,6 @@
     "考研复习/测试/text_1.md",
     "考研复习/测试/数学一专项.md",
     "考研复习/测试/二次型.md",
-    "考研复习/测试/特征值与特征向量.md",
     "求二次型的解.canvas",
     "text_1.canvas",
     "考研复习/测试/preview.html",
@@ -231,7 +233,6 @@
     "考研复习/测试",
     "未命名.canvas",
     "Untitled1.sheet",
-    "Untitled.sheet",
-    "编程语言/images"
+    "Untitled.sheet"
   ]
 }

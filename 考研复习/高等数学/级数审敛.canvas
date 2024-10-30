@@ -1,6 +1,16 @@
 {
 	"nodes":[
-		{"id":"9df61d5ed853244a","x":-680,"y":-640,"width":412,"height":190,"color":"1","type":"text","text":"若 $\\sum^{\\infty}_{n=1}u_{n}$ 和 $\\sum^{\\infty}_{n=1}v_{n}$ 分别收敛于 $s,\\sigma$, 则 $\\sum^{\\infty}_{n=1}(u_{n}\\pm v_{n})$ 收敛于 $s \\pm \\sigma$\n\n>[!note] \n>该结论对任意项级数都成立.\n\n"}
+		{"id":"2aa578939da68733","type":"group","x":-1260,"y":-1200,"width":920,"height":480,"color":"4","label":"基本性质"},
+		{"id":"0d761ee19eb16ffd","x":-1280,"y":-700,"width":1740,"height":800,"type":"group"},
+		{"id":"6d21a947548de6b0","type":"text","text":"**收敛级数**加括号后仍然收敛且和不变, 反之不一定成立.\n\n>[!note] \n>加括号后收敛但是原级数不收敛 $\\sum^{\\infty}_{n=1}(-1)^n$.\n>加括号后发散原级数**一定**发散.","x":-789,"y":-1180,"width":412,"height":280,"color":"1"},
+		{"id":"9df61d5ed853244a","type":"text","text":"若 $\\sum^{\\infty}_{n=1}u_{n}$ 和 $\\sum^{\\infty}_{n=1}v_{n}$ 分别收敛于 $s,\\sigma$, 则 $\\sum^{\\infty}_{n=1}(u_{n}\\pm v_{n})$ 收敛于 $s \\pm \\sigma$.\n\n即收敛+收敛等于收敛.\n\n>[!note] \n>该结论对任意项级数都成立.\n\n","x":-1217,"y":-1180,"width":412,"height":280,"color":"1"},
+		{"id":"6efc5ff2ebd4ddfe","type":"text","text":"$\\sum^{\\infty}_{n=1}a_{n}$ 收敛 $\\iff$ $\\lim_{ n \\to \\infty }S_{n}$ 存在.\n$\\sum^{\\infty}_{n=1}a_{n}-a_{n-1}$ 收敛 $\\iff$ $\\lim_{  n \\to \\infty }a_{n}$ 存在. \n裂项相消对于任意项级数都可以使用.","x":-1217,"y":-860,"width":840,"height":120},
+		{"id":"a0dd5e53374f19ca","type":"text","text":"条件收敛的级数的所有正项或负项构成的级数一定**发散**. \n反之, 如果绝对收敛, 那么所有正项和负项构成的级数都**收敛**.\n\n即\n$$\n\\sum^{\\infty}_{n=1}u_{n}条件收敛 \\implies \\sum^{\\infty}_{n=1}\\dfrac{u_{n}+|u_{n}|}{2}和\\sum^{\\infty}_{n=0}\\dfrac{u_{n}-|u_{n}|}{2}都发散\n$$\n$$\n\\sum^{\\infty}_{n=1}u_{n}绝对收敛 \\implies \\sum^{\\infty}_{n=1}\\dfrac{u_{n}+|u_{n}|}{2}和\\sum^{\\infty}_{n=0}\\dfrac{u_{n}-|u_{n}|}{2}都收敛\n$$\n","x":-1260,"y":-680,"width":740,"height":280},
+		{"id":"db52bf63109c79ba","type":"text","text":"如果 $|b_{n}|$ 收敛且 $\\lim_{ n \\to \\infty }a_{n}=0$, 则 $\\sum^{\\infty}_{n=1}|a_{n}b_{n}|$ 收敛.\n\n证明: 存在 $k$, 有 $n\\geq k$ 时 $a_{n}\\leq1$.\n$$\n\\sum^{\\infty}_{n=k}|a_{n}b_{n}| \\leq \\sum^{\\infty}_{n=k} |b_{n}|\n$$\n故收敛.","x":-1260,"y":-380,"width":740,"height":220},
+		{"id":"0ce4f9b4a8b77291","type":"text","text":"如果 $|a_{n}|$ 收敛, 那么 $a^2_{n}$ 也收敛.\n\n证明: 存在 $k$, 有 $n\\geq k$ 时 $|a_{n}| \\leq 1$.\n\n$$\n\\sum^{\\infty}_{n=k}a^2_{n} \\leq \\sum^{\\infty}_{n=k} |a_{n}|\n$$\n故收敛.\n","x":-1260,"y":-140,"width":740,"height":220},
+		{"id":"84487c87b197c368","type":"text","text":"![[Pasted image 20241030134444.png]] \n\n设 $a_{n}=n u_{n},b_{n}=\\dfrac{v_{n}}{n}$, 则有 $|a_{n}|$ 收敛, $\\lim_{ n \\to \\infty }b_{n} = 0$, 故 $|a_{n}b_{n}|=|u_{n}v_{n}|$ 收敛.","x":-320,"y":-400,"width":760,"height":280}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4c088b000acd27e9","fromNode":"db52bf63109c79ba","fromSide":"right","toNode":"84487c87b197c368","toSide":"top"}
+	]
 }
