@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"9df61d5ed853244a","x":-680,"y":-640,"width":412,"height":190,"color":"1","type":"text","text":"若 $\\sum^{\\infty}_{n=1}u_{n}$ 和 $\\sum^{\\infty}_{n=1}v_{n}$ 分别收敛于 $s,\\sigma$, 则 $\\sum^{\\infty}_{n=1}(u_{n}\\pm v_{n})$ 收敛于 $s \\pm \\sigma$\n\n>[!note] \n>该结论对任意项级数都成立.\n\n"}
+	],
+	"edges":[]
+}
