@@ -11,17 +11,14 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/级数审敛.canvas",
-                "viewState": {
-                  "x": -215.3186813186813,
-                  "y": -475.4285714285714,
-                  "zoom": -0.9516369784386012
-                }
+                "file": "考研复习/高等数学/高等数学.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "级数审敛"
+              "icon": "lucide-file",
+              "title": "高等数学"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/级数审敛.canvas"
+                "file": "考研复习/高等数学/高等数学.md"
               },
               "icon": "lucide-list",
-              "title": "级数审敛 的大纲"
+              "title": "高等数学 的大纲"
             }
           },
           {
@@ -180,16 +177,17 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/概率论错题集.md",
+    "考研复习/线性代数.md",
+    "考研复习/高等数学/级数审敛.canvas",
     "考研复习/英语作文.md",
     "考研复习/images/Pasted image 20241030184948.png",
     "考研复习/数学试卷错题.md",
-    "考研复习/线性代数.md",
     "考研复习/线代补充.md",
     "考研复习/算错.md",
     "考研复习/操作系统真题.md",
     "考研复习/操作系统复习.md",
     "考研复习/数据结构.md",
-    "考研复习/高等数学/级数审敛.canvas",
     "考研复习/高等数学/高等数学.md",
     "考研复习/高等数学/images/Pasted image 20241030134444.png",
     "考研复习/高等数学/images",
@@ -200,7 +198,6 @@
     "线性代数错题集.canvas",
     "考研复习/高等数学错题集.md",
     "考研复习/概率论.md",
-    "考研复习/概率论错题集.md",
     "考研复习/十年真题.md",
     "考研复习/线性代数错题集.md",
     "考研复习/英语近似词.md",
