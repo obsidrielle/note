@@ -11,17 +11,14 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/级数审敛.canvas",
-                "viewState": {
-                  "x": -515.3956886145418,
-                  "y": -85.22375026537097,
-                  "zoom": -0.2849703117719346
-                }
+                "file": "考研复习/线性代数.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "级数审敛"
+              "icon": "lucide-file",
+              "title": "线性代数"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/级数审敛.canvas"
+                "file": "考研复习/线性代数.md"
               },
               "icon": "lucide-list",
-              "title": "级数审敛 的大纲"
+              "title": "线性代数 的大纲"
             }
           },
           {
@@ -180,8 +177,8 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
-    "考研复习/高等数学/高等数学.md",
     "考研复习/高等数学/级数审敛.canvas",
+    "考研复习/高等数学/高等数学.md",
     "考研复习/高等数学/images/Pasted image 20241030134444.png",
     "考研复习/高等数学/images",
     "考研复习/高等数学/基本性质.md",
