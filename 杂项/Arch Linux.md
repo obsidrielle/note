@@ -79,3 +79,4 @@ yay -S wlrobs xdg-desktop-portal-wlr
 </fontconfig>
 
 ```
+
