@@ -11,17 +11,14 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/级数审敛.canvas",
-                "viewState": {
-                  "x": -392.2948038260171,
-                  "y": -521.4633493812352,
-                  "zoom": -0.6183036451052679
-                }
+                "file": "考研复习/英语作文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "级数审敛"
+              "icon": "lucide-file",
+              "title": "英语作文"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/级数审敛.canvas"
+                "file": "考研复习/英语作文.md"
               },
               "icon": "lucide-list",
-              "title": "级数审敛 的大纲"
+              "title": "英语作文 的大纲"
             }
           },
           {
@@ -180,10 +177,10 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/高等数学/级数审敛.canvas",
     "考研复习/政治.md",
     "考研复习/英语作文.md",
     "考研复习/高等数学/高等数学.md",
-    "考研复习/高等数学/级数审敛.canvas",
     "考研复习/images/Pasted image 20241031195724.png",
     "考研复习/images/Pasted image 20241031195533.png",
     "考研复习/images/Pasted image 20241031193516.png",
