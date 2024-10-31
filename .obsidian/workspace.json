@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题.md",
+                "file": "考研复习/操作系统真题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学试卷错题"
+              "title": "操作系统真题"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题.md"
+                "file": "考研复习/操作系统真题.md"
               },
               "icon": "lucide-list",
-              "title": "数学试卷错题 的大纲"
+              "title": "操作系统真题 的大纲"
             }
           },
           {
@@ -177,6 +177,9 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/操作系统复习.md",
+    "考研复习/操作系统真题.md",
+    "考研复习/数学试卷错题.md",
     "考研复习/images/Pasted image 20241031151659.png",
     "考研复习/未命名.md",
     "考研复习/高等数学/高等数学.md",
@@ -189,16 +192,13 @@
     "考研复习/概率论.md",
     "考研复习/高等数学错题集.md",
     "考研复习/数学真题整理.md",
-    "考研复习/数学试卷错题.md",
     "考研复习/高等数学/级数审敛.canvas",
-    "考研复习/操作系统复习.md",
     "考研复习/images/3b79ae0143edb392ab0374d99db176c8_720.jpg",
     "考研复习/概率论错题集.md",
     "考研复习/十年真题.md",
     "考研复习/线性代数.md",
     "考研复习/images/Pasted image 20241030184948.png",
     "考研复习/算错.md",
-    "考研复习/操作系统真题.md",
     "考研复习/数据结构.md",
     "考研复习/高等数学/images/Pasted image 20241030134444.png",
     "考研复习/高等数学/images",
@@ -214,7 +214,6 @@
     "考研复习/images/Pasted image 20240507180700.png",
     "考研复习/images/Pasted image 20240506183402.png",
     "考研复习/images/Pasted image 20240506172107.png",
-    "考研复习/images/Pasted image 20240416195359.png",
     "images",
     "考研复习/测试/行列式.md",
     "行列式.canvas",
