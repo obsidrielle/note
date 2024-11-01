@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/未命名.md",
+                "file": "考研复习/高等数学/高等数学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "高等数学"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.md"
+                "file": "考研复习/高等数学/高等数学.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "高等数学 的大纲"
             }
           },
           {
@@ -177,6 +177,7 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/未命名.md",
     "考研复习/英语作文.md",
     "考研复习/线代补充.md",
     "考研复习/线性代数.md",
@@ -198,7 +199,6 @@
     "考研复习/十年真题.md",
     "考研复习/images/Pasted image 20241031185252.png",
     "考研复习/数学真题整理.md",
-    "考研复习/未命名.md",
     "考研复习/images/Pasted image 20241031151659.png",
     "杂项/vscode.md",
     "杂项/Arch Linux.md",
