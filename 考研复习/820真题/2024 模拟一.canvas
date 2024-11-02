@@ -1,10 +1,13 @@
 {
 	"nodes":[
-		{"id":"6a3c74bc433230ce","type":"group","x":-620,"y":-520,"width":840,"height":1140,"color":"1","label":"选填"},
-		{"id":"8408aaa6d5e892f7","type":"text","text":"在一段时间内进程要访问的页面集合如下，则在 $t$ 时刻, 工作集窗口为 $7$, 工作集为\n\n$$\n1,3,4,2,4,5,7,6,8,5,6,1(t),3,4,7,5,3,3\n$$\n工作集就是从 $t$ 时刻包括 $t$ 向前寻找 $7$ 个单位，即 $1,6,5,8,7$.","x":-600,"y":-500,"width":787,"height":140},
-		{"id":"ccba221c7922720d","type":"text","text":"以下哪个选项属于两级目录的优点: 解决不同用户之间文件的重名问题","x":-600,"y":-320,"width":300,"height":120},
-		{"id":"f1cafeacfb4afb02","type":"text","text":"在记录型信号量中, 执行 `V` 操作时, 信号量值**小于等于 0**时执行唤醒原语","x":-206,"y":-320,"width":393,"height":120},
-		{"id":"79f191584797c73d","type":"text","text":"PV 操作\n\n```c\nvoid signal(semophore S) {\n\tS += 1;\n}\n\nvoid wait(semophore S) {\n\twhile (S <= 0);\n\tS -= 1;\n}\n\n// 记录型\nvoid signal(semophore S) {\n\tS.value++;\n\n\tif (S.value <= 0) { // 因为这里先+1,所以==0时也需要唤醒\n\t\twakeup(S.L);\n\t}\n}\n\nvoid wait(semophore S) {\n\tS.value--;\n\t\n\tif (S.value < 0) {\n\t\tblock(S.L);\n\t}\n}\n```","x":-459,"y":-160,"width":646,"height":740}
+		{"id":"31ef8281bad91a8e","type":"group","x":-960,"y":-800,"width":2200,"height":1280,"color":"3","label":"Os"},
+		{"id":"6a3c74bc433230ce","type":"group","x":-880,"y":-720,"width":1020,"height":1140,"color":"1","label":"选填"},
+		{"id":"8408aaa6d5e892f7","type":"text","text":"在一段时间内进程要访问的页面集合如下，则在 $t$ 时刻, 工作集窗口为 $7$, 工作集为\n\n$$\n1,3,4,2,4,5,7,6,8,5,6,1(t),3,4,7,5,3,3\n$$\n工作集就是从 $t$ 时刻包括 $t$ 向前寻找 $7$ 个单位，即 $1,6,5,8,7$.","x":-860,"y":-700,"width":787,"height":140},
+		{"id":"79f191584797c73d","type":"text","text":"PV 操作\n\n```c\nvoid signal(semophore S) {\n\tS += 1;\n}\n\nvoid wait(semophore S) {\n\twhile (S <= 0);\n\tS -= 1;\n}\n\n// 记录型\nvoid signal(semophore S) {\n\tS.value++;\n\n\tif (S.value <= 0) { // 因为这里先+1,所以==0时也需要唤醒\n\t\twakeup(S.L);\n\t}\n}\n\nvoid wait(semophore S) {\n\tS.value--;\n\t\n\tif (S.value < 0) {\n\t\tblock(S.L);\n\t}\n}\n```","x":-466,"y":-360,"width":553,"height":740},
+		{"id":"f1cafeacfb4afb02","type":"text","text":"在记录型信号量中, 执行 `V` 操作时, 信号量值**小于等于 0**时执行唤醒原语","x":-466,"y":-520,"width":552,"height":120},
+		{"id":"ccba221c7922720d","type":"text","text":"以下哪个选项属于两级目录的优点: 解决不同用户之间文件的重名问题","x":-860,"y":-520,"width":360,"height":120},
+		{"id":"8f4d34afa8aaafc6","type":"text","text":"应用程序请求操作系统服务时需要使用**访管(陷入)**指令.","x":-860,"y":-360,"width":360,"height":100},
+		{"id":"11844be4f173a26f","x":200,"y":-720,"width":960,"height":1140,"type":"text","text":"# 读写者问题的写者优先的写法\n\n`S` 用于禁止读进程, 所以读进程应该获取 `S`, 当写进程写时也要获取 `S`.\n`writecount` 用于记录写进程的数量, 但是写应当互斥.\n\n\n\n```c\nsemaphore S = 1;\nsemophore rmutex = 1, wmutex = 1, wcMutex = 1;\n\nint readcount = 0, writecount = 0;\n\nvoid reader() {\n\twhile (1) {\n\t\tP(S);\n\t\tP(rmutex);\n\t\tif (readcount == 0) P(wmutex);\n\t\treadcount++;\n\t\tV(rmutex);\n\t\tV(S);\n\n\t\tread;\n\n\t\tP(rmutex);\n\t\treadcount--;\n\t\tif (readcount == 0) V(wmutex);\n\t\tV(rmutex);\n\t}\n}\n\nvoid writer() {\n\twhile (1) {\n\t\tP(wcMutex);\n\t\tif (writecount == 0) P(S);\n\t\twritecount++;\n\t\tV(wcMutex);\n\n\t\tP(wmutex);\n\t\twrite;\n\t\tV(wmutex);\n\n\t\tP(wcMutex);\n\t\twritecount--;\n\t\tif (writecount == 0) V(S);\n\t\tV(wcMutex);\n\t}\n}\n```"}
 	],
 	"edges":[
 		{"id":"5ae2a245806da8a7","fromNode":"f1cafeacfb4afb02","fromSide":"bottom","toNode":"79f191584797c73d","toSide":"top"}
