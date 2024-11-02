@@ -2,16 +2,18 @@
 	"nodes":[
 		{"id":"31ef8281bad91a8e","type":"group","x":-960,"y":-800,"width":2200,"height":1280,"color":"3","label":"Os"},
 		{"id":"6a3c74bc433230ce","type":"group","x":-880,"y":-720,"width":1020,"height":1140,"color":"1","label":"选填"},
-		{"id":"efb575d568793681","type":"group","x":-960,"y":600,"width":860,"height":620,"color":"4","label":"Ds"},
-		{"id":"2276cee81c211dcf","x":-920,"y":660,"width":630,"height":420,"color":"2","type":"group","label":"选填"},
+		{"id":"efb575d568793681","type":"group","x":-960,"y":560,"width":1480,"height":620,"color":"4","label":"Ds"},
+		{"id":"2276cee81c211dcf","x":-920,"y":620,"width":630,"height":420,"color":"2","type":"group","label":"选填"},
 		{"id":"8408aaa6d5e892f7","type":"text","text":"在一段时间内进程要访问的页面集合如下，则在 $t$ 时刻, 工作集窗口为 $7$, 工作集为\n\n$$\n1,3,4,2,4,5,7,6,8,5,6,1(t),3,4,7,5,3,3\n$$\n工作集就是从 $t$ 时刻包括 $t$ 向前寻找 $7$ 个单位，即 $1,6,5,8,7$.","x":-860,"y":-700,"width":787,"height":140},
 		{"id":"79f191584797c73d","type":"text","text":"PV 操作\n\n```c\nvoid signal(semophore S) {\n\tS += 1;\n}\n\nvoid wait(semophore S) {\n\twhile (S <= 0);\n\tS -= 1;\n}\n\n// 记录型\nvoid signal(semophore S) {\n\tS.value++;\n\n\tif (S.value <= 0) { // 因为这里先+1,所以==0时也需要唤醒\n\t\twakeup(S.L);\n\t}\n}\n\nvoid wait(semophore S) {\n\tS.value--;\n\t\n\tif (S.value < 0) {\n\t\tblock(S.L);\n\t}\n}\n```","x":-466,"y":-360,"width":553,"height":740},
 		{"id":"f1cafeacfb4afb02","type":"text","text":"在记录型信号量中, 执行 `V` 操作时, 信号量值**小于等于 0**时执行唤醒原语","x":-466,"y":-520,"width":552,"height":120},
 		{"id":"ccba221c7922720d","type":"text","text":"以下哪个选项属于两级目录的优点: 解决不同用户之间文件的重名问题","x":-860,"y":-520,"width":360,"height":120},
 		{"id":"8f4d34afa8aaafc6","type":"text","text":"应用程序请求操作系统服务时需要使用**访管(陷入)**指令.","x":-860,"y":-360,"width":360,"height":100},
 		{"id":"11844be4f173a26f","type":"text","text":"# 读写者问题的写者优先的写法\n\n`S` 用于禁止读进程, 所以读进程应该获取 `S`, 当写进程写时也要获取 `S`.\n`writecount` 用于记录写进程的数量, 但是写应当互斥.\n`wmutex` 用于写的互斥, `rmutex` 用于 `readcount` 的互斥, `wcMutex` 用于 `writecount` 的互斥.\n当第一个读进程进入时, 获取 `wmutex`, 阻止写进程, 写进程进入时获取 `S` 阻止读进程.\n\n```c\nsemaphore S = 1;\nsemophore rmutex = 1, wmutex = 1, wcMutex = 1;\n\nint readcount = 0, writecount = 0;\n\nvoid reader() {\n\twhile (1) {\n\t\tP(S);\n\t\tP(rmutex);\n\t\tif (readcount == 0) P(wmutex);\n\t\treadcount++;\n\t\tV(rmutex);\n\t\tV(S);\n\n\t\tread;\n\n\t\tP(rmutex);\n\t\treadcount--;\n\t\tif (readcount == 0) V(wmutex);\n\t\tV(rmutex);\n\t}\n}\n\nvoid writer() {\n\twhile (1) {\n\t\tP(wcMutex);\n\t\tif (writecount == 0) P(S);\n\t\twritecount++;\n\t\tV(wcMutex);\n\n\t\tP(wmutex);\n\t\twrite;\n\t\tV(wmutex);\n\n\t\tP(wcMutex);\n\t\twritecount--;\n\t\tif (writecount == 0) V(S);\n\t\tV(wcMutex);\n\t}\n}\n```","x":200,"y":-720,"width":960,"height":1140},
-		{"id":"a008bb390c67161e","type":"text","text":"设关键字序列为 $3,7,6,8,7,1,4,5,8$, 最少的交换次数.\n\n最少的交换次数需要使用**选择排序**. 所以最少的交换次数是 `5`.","x":-900,"y":680,"width":590,"height":120},
-		{"id":"0f9e4ef95338b01c","type":"text","text":"采用任何基于比较的算法，对 $6$ 个互相不同的整数进行排序，至少需要多少次比较.\n\n设 $m$ 是最少比较次数, $n$ 是待排序元素总数，则一定有 $m \\geq \\log_{2}(n!)$.\n\n所以 $m \\geq \\log_{2}(720)$, 即 $m = 10$.","x":-900,"y":860,"width":590,"height":200}
+		{"id":"a008bb390c67161e","type":"text","text":"设关键字序列为 $3,7,6,8,7,1,4,5,8$, 最少的交换次数.\n\n最少的交换次数需要使用**选择排序**. 所以最少的交换次数是 `5`.","x":-900,"y":640,"width":590,"height":120},
+		{"id":"0f9e4ef95338b01c","type":"text","text":"采用任何基于比较的算法，对 $6$ 个互相不同的整数进行排序，至少需要多少次比较.\n\n设 $m$ 是最少比较次数, $n$ 是待排序元素总数，则一定有 $m \\geq \\log_{2}(n!)$.\n\n所以 $m \\geq \\log_{2}(720)$, 即 $m = 10$.","x":-900,"y":820,"width":590,"height":200},
+		{"id":"8451d0b0a8cb4395","x":-240,"y":620,"width":702,"height":280,"color":"1","type":"text","text":"设计一个可以在 $O(1)$ 时间内找到最值的栈.\n\n基本思想:\n\n1. 可以考虑一次入栈两个元素, 第一次入本元素, 第二次入栈内的最小元素, 这样就可以保证栈顶的元素是最小值, 出栈也一次出两个即可.\n2. 用两个栈实现, $S_{1}$ 存元素, $S_{2}$ 存最小值, 入栈时入 $S_{1}$, 有和最小值最小或者相等时也入一次 $S_{2}$, $S_{2}$ 中就是最小值, 当出栈元素和 $S_{2}$ 一样时出一次 $S_{2}$."},
+		{"id":"0ef20efe704e65b7","x":-240,"y":950,"width":702,"height":140,"type":"text","text":"求和为 $s$ 的连续正数序列.\n\n用双指针, 在小于等于 $s$ 的 $1..s$ 中维护 $be gin$ 和 $end$. 当窗口中元素和大于 $S$ 时增加 $be gin$, 小于时减少 $end$, 等于 $S$ 时记录答案."}
 	],
 	"edges":[
 		{"id":"5ae2a245806da8a7","fromNode":"f1cafeacfb4afb02","fromSide":"bottom","toNode":"79f191584797c73d","toSide":"top"}
