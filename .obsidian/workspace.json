@@ -11,17 +11,14 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas",
-                "viewState": {
-                  "x": -277.19276123984264,
-                  "y": 379.7857332445988,
-                  "zoom": -0.35535963966333245
-                }
+                "file": "考研复习/操作系统复习.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "操作系统复习"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas"
+                "file": "考研复习/操作系统复习.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "操作系统复习 的大纲"
             }
           },
           {
@@ -180,8 +177,8 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
-    "考研复习/英语作文.md",
     "考研复习/英语作文/未命名.canvas",
+    "考研复习/英语作文.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/英语作文/images/Pasted image 20241102213052.png",
     "考研复习/英语作文/images",
