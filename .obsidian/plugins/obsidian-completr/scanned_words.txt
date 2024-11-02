@@ -2676,6 +2676,7 @@ cKGi
 color
 cAm
 cbc
+cad
 int
 infty
 iff
@@ -8515,6 +8516,7 @@ eIF
 eIBR
 efc
 ebd
+ebc
 geq
 gww
 gggxh
