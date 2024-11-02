@@ -11,14 +11,17 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/英语作文.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/820真题/2024 模拟一.canvas",
+                "viewState": {
+                  "x": 61.00067196030112,
+                  "y": 100.50727156547603,
+                  "zoom": -0.6069888070511551
+                }
               },
-              "icon": "lucide-file",
-              "title": "英语作文"
+              "icon": "lucide-layout-dashboard",
+              "title": "2024 模拟一"
             }
           }
         ]
@@ -139,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文.md"
+                "file": "考研复习/820真题/2024 模拟一.canvas"
               },
               "icon": "lucide-list",
-              "title": "英语作文 的大纲"
+              "title": "2024 模拟一 的大纲"
             }
           },
           {
@@ -177,23 +180,25 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
-    "考研复习/images/Pasted image 20241101223107.png",
+    "考研复习/820真题/操作系统真题.md",
+    "考研复习/操作系统复习.md",
+    "考研复习/820真题/2024 模拟一.canvas",
+    "考研复习/820真题",
     "考研复习/英语真题词汇.md",
+    "考研复习/英语作文.md",
     "考研复习/真题压轴同源150.md",
+    "考研复习/images/Pasted image 20241101223107.png",
     "考研复习/高等数学/高等数学.md",
     "考研复习/未命名.md",
-    "考研复习/英语作文.md",
     "考研复习/线代补充.md",
     "考研复习/线性代数.md",
     "考研复习/英语近似词.md",
     "考研复习/高等数学/级数审敛.canvas",
-    "考研复习/操作系统复习.md",
     "考研复习/政治.md",
     "考研复习/images/Pasted image 20241031195724.png",
     "考研复习/images/Pasted image 20241031195533.png",
     "考研复习/images/Pasted image 20241031193516.png",
     "考研复习/数学试卷错题.md",
-    "考研复习/操作系统真题.md",
     "考研复习/概率论.md",
     "考研复习/概率论错题集.md",
     "考研复习/数据结构.md",
@@ -214,7 +219,6 @@
     "线性代数错题集.canvas",
     "考研复习/线性代数错题集.md",
     "考研复习/images/Pasted image 20241028221413.png",
-    "考研复习/images/Pasted image 20240414223436.png",
     "images",
     "考研复习/测试/行列式.md",
     "行列式.canvas",
@@ -229,7 +233,6 @@
     "高等数学.canvas",
     "考研复习/测试",
     "未命名.canvas",
-    "Untitled1.sheet",
-    "Untitled.sheet"
+    "Untitled1.sheet"
   ]
 }
