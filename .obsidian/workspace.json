@@ -11,14 +11,17 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷错题.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/数学试卷错题/数学试卷.canvas",
+                "viewState": {
+                  "x": 479.6087182681512,
+                  "y": -179.67383963133102,
+                  "zoom": 0.20337486487878714
+                }
               },
-              "icon": "lucide-file",
-              "title": "数学试卷错题"
+              "icon": "lucide-layout-dashboard",
+              "title": "数学试卷"
             }
           }
         ]
@@ -139,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷错题.md"
+                "file": "考研复习/数学试卷错题/数学试卷.canvas"
               },
               "icon": "lucide-list",
-              "title": "数学试卷错题 的大纲"
+              "title": "数学试卷 的大纲"
             }
           },
           {
@@ -177,9 +180,9 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241103130929.png",
-    "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/images/Pasted image 20241103121801.png",
     "考研复习/数学试卷错题/images/Pasted image 20241103120254.png",
     "考研复习/数学试卷错题/images",
