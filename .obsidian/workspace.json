@@ -11,17 +11,14 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas",
-                "viewState": {
-                  "x": 479.6087182681512,
-                  "y": -179.67383963133102,
-                  "zoom": 0.20337486487878714
-                }
+                "file": "考研复习/概率论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "数学试卷"
+              "icon": "lucide-file",
+              "title": "概率论"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas"
+                "file": "考研复习/概率论.md"
               },
               "icon": "lucide-list",
-              "title": "数学试卷 的大纲"
+              "title": "概率论 的大纲"
             }
           },
           {
