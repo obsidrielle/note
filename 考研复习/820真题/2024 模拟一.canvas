@@ -1,9 +1,11 @@
 {
 	"nodes":[
-		{"id":"64c4801872a8a526","x":-2440,"y":-1560,"width":3080,"height":2480,"color":"4","type":"group","label":"2024第一套"},
+		{"id":"64c4801872a8a526","type":"group","x":-2440,"y":-1560,"width":3080,"height":2480,"color":"4","label":"2024第一套"},
 		{"id":"31ef8281bad91a8e","type":"group","x":-2120,"y":-1280,"width":2200,"height":1280,"color":"3","label":"Os"},
+		{"id":"79ba5cc4294d2c5d","x":-2440,"y":1120,"width":1840,"height":1320,"color":"4","type":"group","label":"2024第二套"},
 		{"id":"6a3c74bc433230ce","type":"group","x":-2040,"y":-1200,"width":1020,"height":1140,"color":"1","label":"选填"},
 		{"id":"efb575d568793681","type":"group","x":-2120,"y":80,"width":1480,"height":620,"color":"4","label":"Ds"},
+		{"id":"a6527e096f823f88","type":"group","x":-2380,"y":1180,"width":1140,"height":580,"color":"1","label":"Os选填"},
 		{"id":"2276cee81c211dcf","type":"group","x":-2080,"y":140,"width":630,"height":420,"color":"2","label":"选填"},
 		{"id":"a008bb390c67161e","type":"text","text":"设关键字序列为 $3,7,6,8,7,1,4,5,8$, 最少的交换次数.\n\n最少的交换次数需要使用**选择排序**. 所以最少的交换次数是 `5`.","x":-2060,"y":160,"width":590,"height":120},
 		{"id":"0f9e4ef95338b01c","type":"text","text":"采用任何基于比较的算法，对 $6$ 个互相不同的整数进行排序，至少需要多少次比较.\n\n设 $m$ 是最少比较次数, $n$ 是待排序元素总数，则一定有 $m \\geq \\log_{2}(n!)$.\n\n所以 $m \\geq \\log_{2}(720)$, 即 $m = 10$.","x":-2060,"y":340,"width":590,"height":200},
@@ -15,7 +17,12 @@
 		{"id":"f1cafeacfb4afb02","type":"text","text":"在记录型信号量中, 执行 `V` 操作时, 信号量值**小于等于 0**时执行唤醒原语","x":-1626,"y":-1000,"width":552,"height":120},
 		{"id":"79f191584797c73d","type":"text","text":"PV 操作\n\n```c\nvoid signal(semophore S) {\n\tS += 1;\n}\n\nvoid wait(semophore S) {\n\twhile (S <= 0);\n\tS -= 1;\n}\n\n// 记录型\nvoid signal(semophore S) {\n\tS.value++;\n\n\tif (S.value <= 0) { // 因为这里先+1,所以==0时也需要唤醒\n\t\twakeup(S.L);\n\t}\n}\n\nvoid wait(semophore S) {\n\tS.value--;\n\t\n\tif (S.value < 0) {\n\t\tblock(S.L);\n\t}\n}\n```","x":-1626,"y":-840,"width":553,"height":740},
 		{"id":"11844be4f173a26f","type":"text","text":"# 读写者问题的写者优先的写法\n\n`S` 用于禁止读进程, 所以读进程应该获取 `S`, 当写进程写时也要获取 `S`.\n`writecount` 用于记录写进程的数量, 但是写应当互斥.\n`wmutex` 用于写的互斥, `rmutex` 用于 `readcount` 的互斥, `wcMutex` 用于 `writecount` 的互斥.\n当第一个读进程进入时, 获取 `wmutex`, 阻止写进程, 写进程进入时获取 `S` 阻止读进程.\n\n```c\nsemaphore S = 1;\nsemophore rmutex = 1, wmutex = 1, wcMutex = 1;\n\nint readcount = 0, writecount = 0;\n\nvoid reader() {\n\twhile (1) {\n\t\tP(S);\n\t\tP(rmutex);\n\t\tif (readcount == 0) P(wmutex);\n\t\treadcount++;\n\t\tV(rmutex);\n\t\tV(S);\n\n\t\tread;\n\n\t\tP(rmutex);\n\t\treadcount--;\n\t\tif (readcount == 0) V(wmutex);\n\t\tV(rmutex);\n\t}\n}\n\nvoid writer() {\n\twhile (1) {\n\t\tP(wcMutex);\n\t\tif (writecount == 0) P(S);\n\t\twritecount++;\n\t\tV(wcMutex);\n\n\t\tP(wmutex);\n\t\twrite;\n\t\tV(wmutex);\n\n\t\tP(wcMutex);\n\t\twritecount--;\n\t\tif (writecount == 0) V(S);\n\t\tV(wcMutex);\n\t}\n}\n```","x":-960,"y":-1200,"width":960,"height":1140},
-		{"id":"3a4c99e338804edf","x":-2324,"y":1243,"width":344,"height":117,"type":"text","text":"多级反馈队列调度算法中每个队列采用**FCFS**算法\n\n"}
+		{"id":"3293d03d30e8ff7a","type":"text","text":"文件的逻辑结构中, 记录之间的顺序和关键字无关的是**串结构**, 一般是按存入的时间先后顺序排列.\n\n顺序结构需要用户指定一个字段作为关键字, 同时需要关键字唯一.","x":-2340,"y":1380,"width":500,"height":200},
+		{"id":"e4f48d4aeb6db3ef","type":"text","text":"SCAN 算法是到头后反向查找, 而 CSCAN 才是到头后回到起点同向查找.","x":-2340,"y":1620,"width":500,"height":100},
+		{"id":"3a4c99e338804edf","type":"text","text":"多级反馈队列调度算法中每个队列采用**FCFS**算法, 只在最后一个队列使用 $RR$ 算法.","x":-2340,"y":1220,"width":500,"height":117},
+		{"id":"1d63b1fb9fd06ea9","x":-1800,"y":1220,"width":520,"height":117,"type":"text","text":"一个作业通常由几个进程组成, 几个进程共同完成一个任务, 所以作业和进程通常不是**一一对应**的."},
+		{"id":"4d1eea4f10e3e1f4","x":-1800,"y":1620,"width":520,"height":100,"type":"text","text":"**中断向量**中存储的是中断服务程序的地址, 而中断向量地址存储的是中断向量的地址."},
+		{"id":"e4fc1da02410a3a2","x":-1800,"y":1380,"width":520,"height":200,"type":"text","text":"导致进程创建的典型事件:\n\n1. 用户登录\n2. 作业调度\n3. 提供服务\n4. 应用请求"}
 	],
 	"edges":[
 		{"id":"5ae2a245806da8a7","fromNode":"f1cafeacfb4afb02","fromSide":"bottom","toNode":"79f191584797c73d","toSide":"top"}
