@@ -11,17 +11,14 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/820真题/2024 模拟一.canvas",
-                "viewState": {
-                  "x": -579.9359776736744,
-                  "y": 150.16425164505836,
-                  "zoom": -2.2590655036308482
-                }
+                "file": "考研复习/英语作文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2024 模拟一"
+              "icon": "lucide-file",
+              "title": "英语作文"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/820真题/2024 模拟一.canvas"
+                "file": "考研复习/英语作文.md"
               },
               "icon": "lucide-list",
-              "title": "2024 模拟一 的大纲"
+              "title": "英语作文 的大纲"
             }
           },
           {
@@ -180,6 +177,8 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/英语真题词汇.md",
+    "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/820真题/操作系统真题.md",
     "考研复习/概率论错题集.md",
     "考研复习/数学真题整理.md",
@@ -209,9 +208,7 @@
     "考研复习/未命名.canvas",
     "考研复习/未命名 1.md",
     "考研复习/images/Pasted image 20241102210030.png",
-    "考研复习/英语真题词汇.md",
     "考研复习/英语近似词.md",
-    "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/images/3b79ae0143edb392ab0374d99db176c8_720.jpg",
     "考研复习/820真题",
     "考研复习/images/Pasted image 20241101223107.png",

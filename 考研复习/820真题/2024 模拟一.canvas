@@ -25,6 +25,7 @@
 		{"id":"e4fc1da02410a3a2","x":-1800,"y":1380,"width":520,"height":200,"type":"text","text":"导致进程创建的典型事件:\n\n1. 用户登录\n2. 作业调度\n3. 提供服务\n4. 应用请求"}
 	],
 	"edges":[
-		{"id":"5ae2a245806da8a7","fromNode":"f1cafeacfb4afb02","fromSide":"bottom","toNode":"79f191584797c73d","toSide":"top"}
+		{"id":"5ae2a245806da8a7","fromNode":"f1cafeacfb4afb02","fromSide":"bottom","toNode":"79f191584797c73d","toSide":"top"},
+		{"id":"509fb959e5d32378","fromNode":"64c4801872a8a526","fromSide":"bottom","toNode":"79ba5cc4294d2c5d","toSide":"top"}
 	]
 }
