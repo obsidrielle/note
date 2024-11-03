@@ -1,14 +1,18 @@
 {
 	"nodes":[
 		{"id":"8b06642f1d167058","type":"group","x":-900,"y":280,"width":771,"height":655,"color":"1","label":"25李擂2"},
+		{"id":"4db9ba12b6c96b00","x":0,"y":-502,"width":720,"height":664,"color":"1","type":"group","label":"25李擂3"},
 		{"id":"fdff3951cd6367f7","type":"group","x":-900,"y":-480,"width":717,"height":622,"color":"1","label":"25李擂第一套"},
 		{"id":"a43c4705220c4ceb","type":"text","text":"![[Pasted image 20241103120254.png]]","x":-880,"y":-460,"width":677,"height":222},
 		{"id":"6852417c3e3d4ca1","type":"text","text":"对于 $2$, 如果可以对角化, 则 $P^{-1}AP= \\Uplambda$, 则 $r(A)=r(\\Uplambda)=k$.\n由于 $P^{-1} A^n P = \\Uplambda^n$, 则 $r(A^n)=r(\\Uplambda^n)=k$.\n所以如果可以对角化一定有 $r(A)=r(A^n)$.\n\n对于 $3$, 可以知道 $\\lambda^2+1=2\\lambda$, 即 $\\lambda=1$. $A$ 的特征值只能是 $1$, 由于 $A \\neq E$, 故 $r(A-E)>0$, 即 $n-r(A-E)<n$. 所以一定不能相似对角化.\n\n对于 $4$, $A(A-2E)$ 的特征值是 $\\lambda(\\lambda-2)$, 而 $A^2(A-2E)$ 的特征值是 $\\lambda^2(\\lambda-2)$, 如果可以相似对角化, 则 $A(A-2E)$ 和 $A^2(A-2E)$ 也能对角化, 且两者特征值的非零个数相同, 故如果可以对角化一定有 $r\\left[ A(A-2E) \\right]=r\\left[ A^2(A-2E) \\right]$.","x":-880,"y":-198,"width":677,"height":320},
 		{"id":"9af33efe3aea4949","type":"text","text":"![[Pasted image 20241103121801.png]]","x":-880,"y":300,"width":731,"height":328},
-		{"id":"01ab9d5ac77f886b","type":"text","text":"容易知道 $1$ 正确而 $2$ 错误.\n\n对于 $3$, 可知 $x^TAA^Tx=(A^Tx)^TA^Tx \\geq 0$, $x^TA^TAx=(Ax)^T(Ax)\\geq 0$, 且 $r(AA^T)=r(A^TA)$, 即正惯性指数相等, 故一定合同.\n\n对于 $4$, 如果 $r(A)=1$, 且 $tr(AA^T)=tr(A^TA)$, 故两者相似","x":-880,"y":695,"width":731,"height":220}
+		{"id":"01ab9d5ac77f886b","type":"text","text":"容易知道 $1$ 正确而 $2$ 错误.\n\n对于 $3$, 可知 $x^TAA^Tx=(A^Tx)^TA^Tx \\geq 0$, $x^TA^TAx=(Ax)^T(Ax)\\geq 0$, 且 $r(AA^T)=r(A^TA)$, 即正惯性指数相等, 故一定合同.\n\n对于 $4$, 如果 $r(A)=1$, 且 $tr(AA^T)=tr(A^TA)$, 故两者相似","x":-880,"y":695,"width":731,"height":220},
+		{"id":"68cc8abe1a3325dc","x":20,"y":-482,"width":680,"height":244,"type":"text","text":"![[Pasted image 20241103130929.png]]"},
+		{"id":"1d750adb6d40a938","x":20,"y":-198,"width":680,"height":340,"type":"text","text":"如果 $A$ 有 $n$ 个互不相同的特征值, 且矩阵 $B$ 满足 $AB=BA$, 则 $A$ 的特征向量都是 $B$ 的特征向量.\n\n证明: 设 $\\alpha$ 是 $\\lambda_{i}$ 的特征向量, 则 $A\\alpha=\\lambda_{i}\\alpha$, 则 $BA=\\lambda_{1}B\\alpha$, 由于 $AB=BA$, 故 $AB\\alpha=\\lambda_{i}B\\alpha$, 如果 $B\\alpha=0$, 则 $\\alpha$ 就是 $B$ 属于特征值 $0$ 的特征向量, 如果不是 $0$, 则 $B\\alpha$ 是 $A$ 属于特征值 $\\lambda_{i}$ 的特征向量, 由于一重, 所以 $B\\alpha=k\\alpha$. 故也是 $B$ 的特征向量.\n\n反之不成立, 比如取 $B=E$.\n\n如果 $B$ 也有互不相同的特征值, 则 $AB$ 具有**完全相同**的特征向量."}
 	],
 	"edges":[
 		{"id":"70d3213af32e8b5a","fromNode":"a43c4705220c4ceb","fromSide":"bottom","toNode":"6852417c3e3d4ca1","toSide":"top"},
-		{"id":"8334dd3cf54563f9","fromNode":"9af33efe3aea4949","fromSide":"bottom","toNode":"01ab9d5ac77f886b","toSide":"top"}
+		{"id":"8334dd3cf54563f9","fromNode":"9af33efe3aea4949","fromSide":"bottom","toNode":"01ab9d5ac77f886b","toSide":"top"},
+		{"id":"a9ebe537f55c93da","fromNode":"68cc8abe1a3325dc","fromSide":"bottom","toNode":"1d750adb6d40a938","toSide":"top"}
 	]
 }
