@@ -11,17 +11,14 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas",
-                "viewState": {
-                  "x": 63.702995654350815,
-                  "y": -9.768434399138243,
-                  "zoom": -1.415037499278844
-                }
+                "file": "考研复习/820真题/操作系统真题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "操作系统真题"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas"
+                "file": "考研复习/820真题/操作系统真题.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "操作系统真题 的大纲"
             }
           },
           {
@@ -180,6 +177,7 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/操作系统复习.md",
     "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/未命名.canvas",
     "考研复习/英语作文/images/Pasted image 20241103221828.png",
@@ -195,7 +193,6 @@
     "wallhaven-dgv23j.png",
     "新建 文本文档.txt",
     "考研复习/未命名.md",
-    "考研复习/操作系统复习.md",
     "考研复习/英语真题词汇.md",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/820真题/操作系统真题.md",
