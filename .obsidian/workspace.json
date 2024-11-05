@@ -11,17 +11,26 @@
             "id": "5756d3b838e3fc99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas",
-                "viewState": {
-                  "x": -233.27823239825247,
-                  "y": -864.9950537210503,
-                  "zoom": -0.45317262816561515
-                }
+                "file": "考研复习/数学试卷错题/数学真题整理.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "数学真题整理"
+            }
+          },
+          {
+            "id": "8b7ca96b7afd88ae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ]
@@ -142,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas"
+                "file": "考研复习/数学试卷错题/数学真题整理.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "数学真题整理 的大纲"
             }
           },
           {
@@ -180,14 +189,16 @@
   },
   "active": "5756d3b838e3fc99",
   "lastOpenFiles": [
+    "考研复习/概率论.md",
+    "考研复习/数学试卷错题/数学真题整理.md",
+    "考研复习/数学试卷错题/数学试卷.canvas",
+    "考研复习/数学试卷错题/数学试卷错题.md",
+    "考研复习/英语作文/未命名.canvas",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/高等数学/高等数学.md",
-    "考研复习/数学试卷错题/数学试卷.canvas",
-    "考研复习/英语作文/未命名.canvas",
     "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/images/Pasted image 20241104231631.png",
-    "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/概率论错题集.md",
     "考研复习/线性代数.md",
     "考研复习/820真题/操作系统真题.md",
@@ -200,8 +211,6 @@
     "考研复习/未命名.md",
     "考研复习/操作系统复习.md",
     "考研复习/英语作文/images/Pasted image 20241103221828.png",
-    "考研复习/数学真题整理.md",
-    "考研复习/概率论.md",
     "考研复习/算错.md",
     "考研复习/高等数学错题集.md",
     "考研复习/数据结构.md",
