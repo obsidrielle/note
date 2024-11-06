@@ -591,6 +591,7 @@ society
 still
 solely
 size
+selling
 to
 theta
 title
@@ -1144,6 +1145,7 @@ thought
 traditional
 technology
 tradtional
+these
 lambda
 left
 leq
@@ -2732,6 +2734,8 @@ confident
 couple
 corner
 commenting
+charity
+contribute
 int
 infty
 iff
@@ -3267,6 +3271,7 @@ iRj
 idL
 interviewed
 incresing
+items
 dx
 dfrac
 dxdy
@@ -4797,6 +4802,7 @@ applied
 around
 advancements
 approach
+activity
 bY
 bEY
 begin
@@ -6592,6 +6598,7 @@ CfZ
 CjD
 CCDBC
 CCCAD
+Classmates
 pm
 pi
 pF
@@ -7115,6 +7122,7 @@ popularity
 protect
 perceived
 possibility
+playground
 DX
 DY
 DB
@@ -8108,6 +8116,9 @@ nFz
 nqw
 neglecting
 nutshell
+nWe
+ncome
+nHope
 end
 epsilon
 epO
@@ -8659,6 +8670,8 @@ everyone
 early
 elderly
 excellent
+efcd
+effort
 geq
 gww
 gggxh
@@ -10953,6 +10966,7 @@ hiD
 hUPi
 honesty
 holds
+helping
 LeetCode
 Lo
 LMM
@@ -12698,6 +12712,7 @@ SJI
 SvT
 SPK
 Selected
+Sunday
 Kd
 KH
 KSS
@@ -15104,6 +15119,7 @@ wkh
 wNo
 wyo
 works
+whether
 kw
 kA
 kW
@@ -18911,6 +18927,7 @@ jIa
 jeUP
 jLI
 jmE
+join
 Ra
 RJf
 RJ
