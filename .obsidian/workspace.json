@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas",
-                "viewState": {
-                  "x": 455,
-                  "y": -50,
-                  "zoom": -2.0588936890535687
-                }
+                "file": "考研复习/英语作文/英语作文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "英语作文"
             }
           }
         ],
@@ -157,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/未命名.canvas"
+                "file": "考研复习/英语作文/英语作文.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "英语作文 的大纲"
             }
           },
           {
@@ -195,8 +192,8 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/未命名.canvas",
+    "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/images/Pasted image 20241106200019.png",
     "考研复习/操作系统复习.md",
     "考研复习/高等数学/高等数学.md",
