@@ -25,14 +25,17 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/英语作文/英语作文.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/820真题/2024 模拟一.canvas",
+                "viewState": {
+                  "x": -1943.3637145989676,
+                  "y": 3558.93968504793,
+                  "zoom": -0.25153876699596495
+                }
               },
-              "icon": "lucide-file",
-              "title": "英语作文"
+              "icon": "lucide-layout-dashboard",
+              "title": "2024 模拟一"
             }
           }
         ],
@@ -154,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/英语作文.md"
+                "file": "考研复习/820真题/2024 模拟一.canvas"
               },
               "icon": "lucide-list",
-              "title": "英语作文 的大纲"
+              "title": "2024 模拟一 的大纲"
             }
           },
           {
@@ -192,10 +195,13 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/英语作文/未命名.canvas",
-    "考研复习/英语作文/英语作文.md",
-    "考研复习/英语作文/images/Pasted image 20241106200019.png",
+    "考研复习/820真题/images/qq_pic_merged_1730956527439.jpg",
+    "考研复习/820真题/images",
     "考研复习/操作系统复习.md",
+    "考研复习/820真题/操作系统真题.md",
+    "考研复习/英语作文/英语作文.md",
+    "考研复习/英语作文/未命名.canvas",
+    "考研复习/英语作文/images/Pasted image 20241106200019.png",
     "考研复习/高等数学/高等数学.md",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/images/Pasted image 20241106145934.png",
@@ -217,7 +223,6 @@
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/英语作文/images/Pasted image 20241104231631.png",
-    "考研复习/820真题/操作系统真题.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/线代补充.md",
     "考研复习/英语近似词.md",
@@ -245,7 +250,6 @@
     "行列式.canvas",
     "求二次型的解.canvas",
     "text_1.canvas",
-    "考研复习/测试/preview.html",
     "text_out.canvas"
   ]
 }
