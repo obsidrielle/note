@@ -2737,6 +2737,7 @@ commenting
 charity
 contribute
 ccf
+cfa
 int
 infty
 iff
