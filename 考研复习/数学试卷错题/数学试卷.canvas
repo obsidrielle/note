@@ -16,7 +16,7 @@
 		{"id":"f643e0ad72bb68b2","type":"text","text":"多元微分的高阶导数使用定义求\n$$\nf''_{xy}(x_{0},y_{0}) = \\lim_{ y \\to y_{0} }  \\dfrac{f'_{x}(x_{0},y)-f'_{x}(x_{0},y_{0})}{y-y_{0}}\n$$\n因此要考察 $f'_{x}(x_{0},y)$ 的存在性\n$$\nf'_{x}(x_{0},y)=\\lim_{ x \\to x_{0} } \\dfrac{f(x,y)-f(x,0)}{x-x_{0}}  \n$$\n对于选择题给的函数来说一般交叉的偏导都不存在.","x":-80,"y":1480,"width":640,"height":335},
 		{"id":"a077783308824430","type":"text","text":"![[Pasted image 20241104160139.png]]","x":-880,"y":2380,"width":740,"height":240},
 		{"id":"8849d8ca895f386b","x":1080,"y":-481,"width":580,"height":361,"type":"text","text":"![[Pasted image 20241108165818.png]]\n\n当 $r(A)=n$ 时, 设 $\\alpha$ 是 $BX=0$ 的解, 则 $B\\alpha=0$, 从而 $AB\\alpha=0$. \n当 $\\alpha$ 是 $ABX=0$ 的解, 则 $AB\\alpha=0$, 从而 $B\\alpha$ 是 $Ax=0$ 的解.\n因为 $r(A)=n$, 故 $Ax=0$ 仅有零解, 故 $B\\alpha=0$, 即 $\\alpha$ 是 $BX=0$ 的解.\n因此两者同解, 故 $AB$ 和 $B$ 的行向量等价."},
-		{"id":"d03e84ccea62d27f","x":1080,"y":100,"width":960,"height":600,"type":"text","text":"$$\nI_{k}=\n$$\n"}
+		{"id":"d03e84ccea62d27f","x":1080,"y":100,"width":960,"height":600,"type":"text","text":"$$\nI_{k}=\\int^{2\\pi}_{0}\\sqrt{ 1+\\cos^2kx }dx\n$$\n$$\nI_{k} \\xrightarrow{t=kx,dt=kdx} \\dfrac{1}{k}\n\\int^{2k\\pi}_{0}\\sqrt{ 1+\\cos^2 t }dt= \\int^{2\\pi}_{0}\\sqrt{ 1+\\cos^2 t }\ndt \\implies I_{k}是常数\n\n$$\n"}
 	],
 	"edges":[
 		{"id":"70d3213af32e8b5a","fromNode":"a43c4705220c4ceb","fromSide":"bottom","toNode":"6852417c3e3d4ca1","toSide":"top"},
