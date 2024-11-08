@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/820真题/2024 模拟一.canvas",
-                "viewState": {
-                  "x": -1922.3543011593754,
-                  "y": 4825.33563706244,
-                  "zoom": 0.2124083327638257
-                }
+                "file": "考研复习/线性代数.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2024 模拟一"
+              "icon": "lucide-file",
+              "title": "线性代数"
             }
           }
         ],
@@ -157,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/820真题/2024 模拟一.canvas"
+                "file": "考研复习/线性代数.md"
               },
               "icon": "lucide-list",
-              "title": "2024 模拟一 的大纲"
+              "title": "线性代数 的大纲"
             }
           },
           {
@@ -195,6 +192,8 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/线代补充.md",
+    "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/820真题/操作系统真题.md",
     "考研复习/英语作文/未命名.canvas",
     "考研复习/英语作文/英语作文.md",
@@ -204,7 +203,6 @@
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/未命名.md",
     "考研复习/高等数学/高等数学.md",
-    "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/820真题/images/qq_pic_merged_1730956527439.jpg",
     "考研复习/820真题/images",
     "考研复习/英语作文/images/Pasted image 20241106200019.png",
@@ -225,7 +223,6 @@
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/英语作文/images/Pasted image 20241104231631.png",
     "考研复习/真题压轴同源150.md",
-    "考研复习/线代补充.md",
     "考研复习/英语近似词.md",
     "考研复习/十年真题.md",
     "考研复习/算错.md",
