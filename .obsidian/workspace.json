@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas",
-                "viewState": {
-                  "x": 1395.1828249498935,
-                  "y": 137.0638734957207,
-                  "zoom": -1.2813111209850514
-                }
+                "file": "考研复习/数学试卷错题/数学试卷错题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "数学试卷"
+              "icon": "lucide-file",
+              "title": "数学试卷错题"
             }
           }
         ],
@@ -157,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas"
+                "file": "考研复习/数学试卷错题/数学试卷错题.md"
               },
               "icon": "lucide-list",
-              "title": "数学试卷 的大纲"
+              "title": "数学试卷错题 的大纲"
             }
           },
           {
@@ -195,10 +192,11 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/数学试卷错题/images/Pasted image 20241111161519.png",
-    "考研复习/英语真题词汇.md",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
+    "考研复习/数学试卷错题/数学试卷.canvas",
+    "考研复习/数学试卷错题/images/Pasted image 20241111161519.png",
+    "考研复习/英语真题词汇.md",
     "考研复习/高等数学错题集.md",
     "考研复习/数据结构.md",
     "考研复习/线性代数.md",
@@ -206,7 +204,6 @@
     "考研复习/英语作文/未命名.canvas",
     "考研复习/英语作文/英语作文.md",
     "考研复习/820真题/2024 模拟一.canvas",
-    "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241108165818.png",
     "考研复习/未命名.md",
     "考研复习/820真题/操作系统真题.md",
@@ -224,7 +221,6 @@
     "考研复习/概率论错题集.md",
     "考研复习/线性代数错题集.md",
     "考研复习/数学试卷错题/images/Pasted image 20241105105309.png",
-    "考研复习/数学试卷错题/images/Pasted image 20241105105305.png",
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/真题压轴同源150.md",
     "考研复习/英语近似词.md",
