@@ -644,6 +644,10 @@ soul
 showcasing
 smith
 selected
+selecting
+seated
+select
+score
 to
 theta
 title
@@ -1767,6 +1771,8 @@ limits
 leisurely
 lifting
 listen
+less
+learn
 mu
 mom
 mW
@@ -2928,6 +2934,8 @@ creativity
 contemplating
 contemplate
 collecting
+course
+computer
 int
 infty
 iff
@@ -9091,6 +9099,7 @@ engage
 extent
 eed
 eeb
+exam
 geq
 gww
 gggxh
@@ -10065,6 +10074,8 @@ obsession
 orderly
 ourselves
 once
+offering
+oursel
 xrightarrow
 xy
 xz
@@ -15615,6 +15626,7 @@ wonderful
 word
 walls
 whispers
+wondering
 kw
 kA
 kW
@@ -19014,6 +19026,7 @@ foucs
 feels
 foster
 fitness
+featured
 jk
 ju
 ji
