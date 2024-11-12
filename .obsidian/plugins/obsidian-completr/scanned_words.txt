@@ -1226,6 +1226,7 @@ term
 temporary
 than
 temptations
+thrive
 lambda
 left
 leq
@@ -2936,6 +2937,8 @@ contemplate
 collecting
 course
 computer
+comes
+commitment
 int
 infty
 iff
@@ -4042,6 +4045,7 @@ detailed
 demands
 data
 deddb
+demanding
 EX
 EXEY
 EY
@@ -9100,6 +9104,7 @@ extent
 eed
 eeb
 exam
+educational
 geq
 gww
 gggxh
@@ -15630,6 +15635,7 @@ word
 walls
 whispers
 wondering
+wonder
 kw
 kA
 kW
@@ -16973,6 +16979,7 @@ vibrant
 valuable
 vitality
 voice
+vision
 ZI
 ZA
 Zy
