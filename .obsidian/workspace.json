@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/英语作文.md",
+                "file": "考研复习/概率论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语作文"
+              "title": "概率论"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/英语作文.md"
+                "file": "考研复习/概率论.md"
               },
               "icon": "lucide-list",
-              "title": "英语作文 的大纲"
+              "title": "概率论 的大纲"
             }
           },
           {
@@ -192,9 +192,9 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/英语作文/英语作文.md",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
-    "考研复习/英语作文/英语作文.md",
     "考研复习/高等数学错题集.md",
     "考研复习/线性代数.md",
     "考研复习/高等数学/高等数学.md",
