@@ -25,14 +25,17 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/英语作文/英语作文.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/数学试卷错题/数学试卷.canvas",
+                "viewState": {
+                  "x": 1758.506189397748,
+                  "y": 1080.7306683102313,
+                  "zoom": -0.28131112098505157
+                }
               },
-              "icon": "lucide-file",
-              "title": "英语作文"
+              "icon": "lucide-layout-dashboard",
+              "title": "数学试卷"
             }
           }
         ],
@@ -154,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/英语作文.md"
+                "file": "考研复习/数学试卷错题/数学试卷.canvas"
               },
               "icon": "lucide-list",
-              "title": "英语作文 的大纲"
+              "title": "数学试卷 的大纲"
             }
           },
           {
@@ -192,8 +195,9 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/英语作文/未命名.canvas",
+    "考研复习/数学试卷错题/images/Pasted image 20241113141655.png",
     "考研复习/英语作文/英语作文.md",
+    "考研复习/英语作文/未命名.canvas",
     "考研复习/线性代数.md",
     "考研复习/英语近似词.md",
     "考研复习/英语作文/images/Pasted image 20241112191947.png",
