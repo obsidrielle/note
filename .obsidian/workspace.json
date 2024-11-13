@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas",
-                "viewState": {
-                  "x": 1758.506189397748,
-                  "y": 1080.7306683102313,
-                  "zoom": -0.28131112098505157
-                }
+                "file": "考研复习/英语作文/英语作文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "数学试卷"
+              "icon": "lucide-file",
+              "title": "英语作文"
             }
           }
         ],
@@ -157,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas"
+                "file": "考研复习/英语作文/英语作文.md"
               },
               "icon": "lucide-list",
-              "title": "数学试卷 的大纲"
+              "title": "英语作文 的大纲"
             }
           },
           {
@@ -195,6 +192,8 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/数据结构.md",
+    "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241113141655.png",
     "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/未命名.canvas",
@@ -208,9 +207,7 @@
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/高等数学错题集.md",
     "考研复习/高等数学/高等数学.md",
-    "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241111161519.png",
-    "考研复习/数据结构.md",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241108165818.png",
     "考研复习/未命名.md",
@@ -223,7 +220,6 @@
     "考研复习/数学试卷错题/images/Pasted image 20241106143944.png",
     "考研复习/数学试卷错题/images/Pasted image 20241106143600.png",
     "考研复习/英语作文/images/Pasted image 20241105221523.png",
-    "考研复习/数学试卷错题/images/Pasted image 20241105220625.png",
     "考研复习/概率论错题集.md",
     "考研复习/线性代数错题集.md",
     "考研复习/高等数学/级数审敛.canvas",
