@@ -25,14 +25,17 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷错题.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/数学试卷错题/数学试卷.canvas",
+                "viewState": {
+                  "x": 841.407689231752,
+                  "y": 4038.909313738973,
+                  "zoom": -0.8779482470769673
+                }
               },
-              "icon": "lucide-file",
-              "title": "数学试卷错题"
+              "icon": "lucide-layout-dashboard",
+              "title": "数学试卷"
             }
           },
           {
@@ -168,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷错题.md"
+                "file": "考研复习/数学试卷错题/数学试卷.canvas"
               },
               "icon": "lucide-list",
-              "title": "数学试卷错题 的大纲"
+              "title": "数学试卷 的大纲"
             }
           },
           {
@@ -206,12 +209,13 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/数学试卷错题/images/Pasted image 20241118162625.png",
+    "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241118145053.png",
     "考研复习/数学试卷错题/images/Pasted image 20241118145039.png",
     "考研复习/数学试卷错题/images/Pasted image 20241118144959.png",
     "考研复习/概率论.md",
-    "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/概率论错题集.md",
     "考研复习/数学试卷错题/images/c5c6dc53f630fbe46a25c0df3f7f8535.jpg",
     "考研复习/算错.md",
