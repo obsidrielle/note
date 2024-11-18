@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas",
-                "viewState": {
-                  "x": 841.407689231752,
-                  "y": 4038.909313738973,
-                  "zoom": -0.8779482470769673
-                }
+                "file": "考研复习/概率论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "数学试卷"
+              "icon": "lucide-file",
+              "title": "概率论"
             }
           },
           {
@@ -171,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas"
+                "file": "考研复习/概率论.md"
               },
               "icon": "lucide-list",
-              "title": "数学试卷 的大纲"
+              "title": "概率论 的大纲"
             }
           },
           {
@@ -209,9 +206,9 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/数学试卷错题/images/Pasted image 20241118162625.png",
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
+    "考研复习/数学试卷错题/images/Pasted image 20241118162625.png",
     "考研复习/数学试卷错题/images/Pasted image 20241118145053.png",
     "考研复习/数学试卷错题/images/Pasted image 20241118145039.png",
     "考研复习/数学试卷错题/images/Pasted image 20241118144959.png",
@@ -237,7 +234,6 @@
     "考研复习/820真题/操作系统真题.md",
     "考研复习/数据结构.md",
     "考研复习/线性代数.md",
-    "考研复习/images/Pasted image 20241114192757.png",
     "考研复习/英语近似词.md",
     "考研复习/英语真题词汇.md",
     "考研复习/高等数学错题集.md",
