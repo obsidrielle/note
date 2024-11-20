@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"2302bd892ee49023","type":"text","text":"# 2015 超越第二套","x":-498,"y":-203,"width":338,"height":50},
 		{"id":"201e964ecf3114e9","type":"text","text":"![[Pasted image 20241120204933.png]]\n\n因为 $f(x)$ 连续, 所以 $m \\leq f(x) \\leq M$. 故\n$$\nm \\leq \\int^{\\dfrac{\\pi}{2}}_{0}f(x)x\\sin x \\leq M \\int^{\\dfrac{\\pi}{2}}_{0}x \\sin x  = M\n$$\n由介值定理可知, 存在 $\\xi \\in (0,\\dfrac{\\pi}{2})$, 有 $f(\\xi)= \\int^{\\frac{\\pi}{2}}_{0}f(x)x\\sin x$.\n同时, 由条件可知\n$$\nm \\leq \\dfrac{f(x_{1})+f(x_{2})}{2} \\leq M\n$$\n所以也存在 $\\zeta \\in (\\dfrac{\\pi}{2},\\pi)$, 有 $f(\\zeta) = \\int^{\\frac{\\pi}{2}}_{0}f(x)x\\sin x$, 故存在 $f'(k)=0$.\n\n","x":-497,"y":-153,"width":797,"height":653},
-		{"id":"746cf32f670ebe87","x":412,"y":-153,"width":948,"height":693,"type":"text","text":"1. $x_{1} <2$\n2. 假设 $x_{k} < 2$\n$$\nx_{k+1}=\\sqrt{ 2+x_{k} }  < \\sqrt{ 2+2 } < 2\n$$\n\n$$\nx_{n+1}-x_{n}=\\sqrt{ 2+x }-x \n$$\n$$\nf(x)=\\sqrt{ 2+x }-x \\implies f'(x)=\\dfrac{1}{2\\sqrt{ 2+x }}-1 \n$$\n"}
+		{"id":"746cf32f670ebe87","x":412,"y":-153,"width":948,"height":693,"type":"text","text":"$$\ne^{-x}\\left[ C+\\int^{x}_{0}e^tf(t)dt \\right] = e^{-(x+T)}\\left[ C+\\int^{x+T}_{0}e^tf(t)dt \\right]  \n$$\n$$\ne^{-x}C+e^{-x} \\int^{x}_{0}e^tf(t) = e^{-(x+T)}C+e^{-(x+T)} \\int^{x+T}_{0}e^tf(t)dt\n$$\n$$\ne^{T}C+e^{T} \\int^{x}_{0}e^tf(t) = C+\\int^{x+T}_{0}e^tf(t)dt\n$$\n$$\n(e^{T}-1)C=\\int^{x+T}_{0}e^tf(t) - e^{-T} \\int^{x}_{0}e^tf(t) \n$$\n$$\nC= \\dfrac{\\int^{x+T}_{0}e^tf(t)-e^{T} \\int^{x}_{0}e^tf(t)}{e^T-1}\n$$\n$$\nF(x) = \\dfrac{\\int^{x+T}_{0}e^tf(t)-e^{T} \\int^{x}_{0}e^tf(t)}{e^T-1} \\implies F'(x) = \\dfrac{e^{x+T}f(x+T)-e^{x+T}f(x)}{e^T-1} = 0\n$$\n$$\nF(0) = \\dfrac{\\int^{T}_{0}e^tf(t)}{e^T-1}\n$$\n"}
 	],
 	"edges":[]
 }
