@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"daa422514d83ac92","type":"text","text":"1. 邀请信一般是邀请参加某种活动:\n\n`Dear Xxx,`\n`(活动) is scheduled to be held at (地点) on (日期) at (具体时间点)`.\n\n2. 然后说邀请对方的理由:\n\n`In view of ..., I am glad/honored to invite you to take part in/participate in ...`\n\n常用的理由:\n\n`Given your esteemed reputation in the field of ...` 鉴于您在某个领域的声誉\n\n声望 `prestige in ...` 成就 `achievements in ...`\n\n3. 第二段介绍活动的具体事项\n\n可以说 `be targeted to` 引出面向活动的群体, 或者用 `aim to` 说明活动的宗旨.\n根据具体的活动可以具体展开说明, 竞技类活动可以说明获奖标准, 参与活动可以列举活动的阶段.\n\n\n\n","x":-752,"y":-527,"width":992,"height":967},
-		{"id":"0430307374d99986","type":"text","text":"# 邀请信","x":-752,"y":-585,"width":250,"height":60}
+		{"id":"daa422514d83ac92","type":"text","text":"1. 邀请信一般是邀请参加某种活动:\n\n`Dear Xxx,`\n`(活动) is scheduled to be held at (地点) on (日期) at (具体时间点)`.\n\n2. 然后说邀请对方的理由:\n\n`In view of ..., I am glad/honored to invite you to take part in/participate in ...`\n\n常用的理由:\n\n`Given your esteemed reputation in the field of ...` 鉴于您在某个领域的声誉\n\n声望 `prestige in ...` 成就 `achievements in ...`\n\n3. 第二段介绍活动的具体事项\n\n可以说 `be targeted to` 引出面向活动的群体, 或者用 `aim to` 说明活动的宗旨.\n\n`The contest is targeted to talented youth who have a passion for ...`\n`The contest aims to enhance ...`\n\n根据具体的活动可以具体展开说明, 竞技类活动可以说明获奖标准, 参与活动可以列举活动的阶段.\n\n竞技类活动:\n\n`Prizes will be awarded against three criteria: ...` 也可以用 `be awarded based on/according to ...`\n`The contest comprises/consists of three stages: `\n\n最后说可以从附件中获得更多信息并说一些套话:\n\n`Please find more details in the attached file. You are so welcomed to .... Please confirm your availability on or before ... by replying this email. Your consideration of this contest will be highly appreciated!`.\n\n\n\n","x":-752,"y":-527,"width":992,"height":867,"color":"4"},
+		{"id":"0430307374d99986","type":"text","text":"# 邀请信","x":-752,"y":-585,"width":250,"height":60,"color":"5"},
+		{"id":"249da85c6d63095b","type":"text","text":"# 感谢信&建议信","x":-752,"y":420,"width":292,"height":60,"color":"5"},
+		{"id":"193d9472b714211f","x":-752,"y":480,"width":992,"height":640,"color":"4","type":"text","text":"1. 开头先表达目的\n\n感谢: `I am writing to you to extend my sincere thanks and gratefulness for ...`.\n\n`Thanks a lot for your kind gesture of ...`\n\n建议: `I am writing to you to offer some suggestions on ...`\n\n2. \n"}
 	],
 	"edges":[]
 }
