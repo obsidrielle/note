@@ -25,14 +25,17 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/数学试卷错题/证明题.canvas",
+                "viewState": {
+                  "x": -95.69289650812628,
+                  "y": 192.16543899357208,
+                  "zoom": 0.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "证明题"
             }
           },
           {
@@ -168,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.md"
+                "file": "考研复习/数学试卷错题/证明题.canvas"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "证明题 的大纲"
             }
           },
           {
@@ -206,7 +209,10 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/数学试卷错题/images/Pasted image 20241120204933.png",
     "考研复习/算错.md",
+    "考研复习/数学试卷错题/证明题.canvas",
+    "考研复习/未命名.md",
     "考研复习/英语作文/模板.canvas",
     "考研复习/英语作文/英语作文.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
@@ -217,7 +223,6 @@
     "考研复习/数学试卷错题/images/Pasted image 20241120163333.png",
     "考研复习/数学试卷错题/images/Pasted image 20241120162833.png",
     "考研复习/数学试卷错题/数学真题整理.md",
-    "考研复习/未命名.md",
     "考研复习/数学试卷错题/images/Pasted image 20241120115248.png",
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/高等数学/高等数学.md",
@@ -259,7 +264,6 @@
     "images",
     "考研复习/测试/行列式.md",
     "行列式.canvas",
-    "求二次型的解.canvas",
-    "text_1.canvas"
+    "求二次型的解.canvas"
   ]
 }
