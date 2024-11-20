@@ -25,14 +25,17 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/概率论错题集.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/英语作文/模板.canvas",
+                "viewState": {
+                  "x": -68.98079151756843,
+                  "y": 95.93480161674094,
+                  "zoom": -1.0433368125754112
+                }
               },
-              "icon": "lucide-file",
-              "title": "概率论错题集"
+              "icon": "lucide-layout-dashboard",
+              "title": "模板"
             }
           },
           {
@@ -168,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/概率论错题集.md"
+                "file": "考研复习/英语作文/模板.canvas"
               },
               "icon": "lucide-list",
-              "title": "概率论错题集 的大纲"
+              "title": "模板 的大纲"
             }
           },
           {
@@ -206,14 +209,15 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/英语作文/模板.canvas",
     "考研复习/英语作文/英语作文.md",
+    "考研复习/数学试卷错题/数学试卷错题.md",
+    "考研复习/英语作文/模板.canvas",
+    "考研复习/概率论错题集.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/数据结构.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241120163333.png",
     "考研复习/数学试卷错题/images/Pasted image 20241120162833.png",
-    "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/未命名.md",
     "考研复习/数学试卷错题/images/Pasted image 20241120115248.png",
@@ -230,7 +234,6 @@
     "考研复习/线代补充.md",
     "考研复习/英语近似词.md",
     "考研复习/线性代数错题集.md",
-    "考研复习/概率论错题集.md",
     "考研复习/数学试卷错题/images/Pasted image 20241119154105.png",
     "考研复习/数学试卷错题/images/Pasted image 20241118162625.png",
     "考研复习/数学试卷错题/images/Pasted image 20241118145053.png",
