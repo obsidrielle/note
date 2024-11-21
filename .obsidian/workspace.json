@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题/证明题.canvas",
-                "viewState": {
-                  "x": 478.73274621452777,
-                  "y": 336.9016637044106,
-                  "zoom": -0.868507301604565
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "证明题"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -171,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/证明题.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "证明题 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -209,6 +206,7 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/数学试卷错题/证明题.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241121153005.png",
     "考研复习/数学试卷错题/images/Pasted image 20241121152011.png",
     "考研复习/数学试卷错题/images/Pasted image 20241121151408.png",
@@ -217,7 +215,6 @@
     "考研复习/数学试卷错题/images/Pasted image 20241121142017.png",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
-    "考研复习/数学试卷错题/证明题.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241121133639.png",
     "考研复习/数学试卷错题/images/Pasted image 20241121133638.png",
     "考研复习/数学试卷错题/数学试卷.canvas",
@@ -232,7 +229,6 @@
     "考研复习/概率论错题集.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/数据结构.md",
-    "考研复习/数学试卷错题/images/Pasted image 20241120163333.png",
     "考研复习/概率论.md",
     "考研复习/高等数学错题集.md",
     "考研复习/操作系统复习.md",
