@@ -1,10 +1,12 @@
 {
 	"nodes":[
-		{"id":"77a303c8af45e383","x":-518,"y":-223,"width":2198,"height":1903,"color":"2","type":"group","label":"罗尔定理"},
+		{"id":"77a303c8af45e383","type":"group","x":-518,"y":-223,"width":2198,"height":1903,"color":"2","label":"罗尔定理"},
 		{"id":"2302bd892ee49023","type":"text","text":"# 2015 超越第二套","x":-498,"y":-203,"width":338,"height":50},
 		{"id":"201e964ecf3114e9","type":"text","text":"![[Pasted image 20241120204933.png]]\n\n因为 $f(x)$ 连续, 所以 $m \\leq f(x) \\leq M$. 故\n$$\nm \\leq \\int^{\\dfrac{\\pi}{2}}_{0}f(x)x\\sin x \\leq M \\int^{\\dfrac{\\pi}{2}}_{0}x \\sin x  = M\n$$\n由介值定理可知, 存在 $\\xi \\in (0,\\dfrac{\\pi}{2})$, 有 $f(\\xi)= \\int^{\\frac{\\pi}{2}}_{0}f(x)x\\sin x$.\n同时, 由条件可知\n$$\nm \\leq \\dfrac{f(x_{1})+f(x_{2})}{2} \\leq M\n$$\n所以也存在 $\\zeta \\in (\\dfrac{\\pi}{2},\\pi)$, 有 $f(\\zeta) = \\int^{\\frac{\\pi}{2}}_{0}f(x)x\\sin x$, 故存在 $f'(k)=0$.\n\n","x":-497,"y":-153,"width":797,"height":653,"color":"1"},
 		{"id":"e56e60e40ff47b93","type":"text","text":"# 2015 超越第四套","x":-497,"y":700,"width":338,"height":50},
-		{"id":"afa77ae2d46c41de","type":"text","text":"![[Pasted image 20241121125053.png]]\n\n设 $F(x)=\\int^{x}_{a}f(t)dt$. 于是 $F(a)=F(c)=F(b)=0$. $F'(x)=f(x),F''(x)=f'(x)$.\n令 $\\phi(x)=F(x)e^{-x}$. 则 $\\phi(a)=\\phi(b)=\\phi(c)=0$.\n由罗尔定理可知存在 $\\xi_{1} \\in(a,b),\\xi_{2} \\in(c,b)$. 有 $\\phi'(\\xi_{1})=\\phi'(\\xi_{2})=0$.\n故\n$$\nf(\\xi_{1})=\\int^{\\xi_{1}}_{a}f(x)dx, f(\\xi_{2})=\\int^{\\xi_{2}}_{a}f(x)dx\n$$\n\n2. 证 $F''(\\zeta)=F(\\zeta)$.\n设\n$$\nG(x)=\\left[ F'(x)-F(x) \\right]e^x  \\implies G'(x)=\\left[ F''(x)-F(x) \\right]e^x  \n$$\n可知 $G(\\xi_{1})=G(\\xi_{2})$, 于是 $G'(\\zeta)=0$\n\n","x":-497,"y":750,"width":797,"height":650,"color":"1"}
+		{"id":"afa77ae2d46c41de","type":"text","text":"![[Pasted image 20241121125053.png]]\n\n设 $F(x)=\\int^{x}_{a}f(t)dt$. 于是 $F(a)=F(c)=F(b)=0$. $F'(x)=f(x),F''(x)=f'(x)$.\n令 $\\phi(x)=F(x)e^{-x}$. 则 $\\phi(a)=\\phi(b)=\\phi(c)=0$.\n由罗尔定理可知存在 $\\xi_{1} \\in(a,b),\\xi_{2} \\in(c,b)$. 有 $\\phi'(\\xi_{1})=\\phi'(\\xi_{2})=0$.\n故\n$$\nf(\\xi_{1})=\\int^{\\xi_{1}}_{a}f(x)dx, f(\\xi_{2})=\\int^{\\xi_{2}}_{a}f(x)dx\n$$\n\n2. 证 $F''(\\zeta)=F(\\zeta)$.\n设\n$$\nG(x)=\\left[ F'(x)-F(x) \\right]e^x  \\implies G'(x)=\\left[ F''(x)-F(x) \\right]e^x  \n$$\n可知 $G(\\xi_{1})=G(\\xi_{2})$, 于是 $G'(\\zeta)=0$\n\n","x":-497,"y":750,"width":797,"height":650,"color":"1"},
+		{"id":"eaabc7b419b232b1","type":"text","text":"# 2015 超越第二套","x":590,"y":-202,"width":338,"height":50},
+		{"id":"95c12282fa715629","type":"text","text":"![[Pasted image 20241121133639.png]]\n\n由拉格朗日中值定理\n$$\ng'(\\xi)=\\dfrac{g(b)-g(a)}{b-a} = g'(a)\n$$\n则由罗尔定理知道 $g'(\\xi)=g'(a)\\implies g''(\\xi_{1})=0$, 这与题设矛盾, 故不相等.\n\n设 $F(x)=f(x)-f(a)-f'(a)(x-a),G(x)=g(x)-g(a)-g'(a)(x-a)$, 则 $F(a)=G(a)=0,F'(a)=G'(a)=0$, 且 $F''(x)=f''(x),G''(x)=g''(x)$.\n\n则\n$","x":590,"y":-152,"width":970,"height":632,"color":"1"}
 	],
 	"edges":[]
 }
