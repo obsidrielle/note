@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/政治.md",
+                "file": "考研复习/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "政治"
+              "title": "未命名"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/政治.md"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "政治 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -206,6 +206,7 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/政治.md",
     "考研复习/未命名.md",
     "考研复习/数据结构.md",
     "考研复习/英语作文/作文.canvas",
@@ -240,7 +241,6 @@
     "考研复习/线代补充.md",
     "考研复习/英语近似词.md",
     "考研复习/线性代数错题集.md",
-    "考研复习/政治.md",
     "考研复习/英语真题词汇.md",
     "考研复习/820真题/images",
     "新建 文本文档.txt",
