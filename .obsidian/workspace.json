@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas",
-                "viewState": {
-                  "x": -5728.2580585318065,
-                  "y": -5279.475973554405,
-                  "zoom": -0.7680507646099497
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "作文"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -171,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "作文 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -209,8 +206,8 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/作文.canvas",
+    "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/images/Pasted image 20241123034932.png",
     "考研复习/操作系统复习.md",
     "考研复习/真题压轴同源150.md",
