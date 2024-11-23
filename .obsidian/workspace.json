@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas",
-                "viewState": {
-                  "x": -52.71199032603423,
-                  "y": -315.4615548711977,
-                  "zoom": -0.5302348574143163
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "数学试卷"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -171,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学试卷.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "数学试卷 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -209,6 +206,8 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/images/Pasted image 20241123113444.png",
+    "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/证明题.canvas",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
@@ -226,7 +225,6 @@
     "考研复习/线代补充.md",
     "考研复习/高等数学/高等数学.md",
     "考研复习/线性代数.md",
-    "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241122165354.png",
     "考研复习/数学试卷错题/images/Pasted image 20241122165310.png",
     "考研复习/概率论.md",
