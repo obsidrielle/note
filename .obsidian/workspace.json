@@ -25,17 +25,14 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas",
-                "viewState": {
-                  "x": -660.2025329657422,
-                  "y": -3329.6041113564215,
-                  "zoom": -4
-                }
+                "file": "考研复习/线性代数错题集.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "作文"
+              "icon": "lucide-file",
+              "title": "线性代数错题集"
             }
           },
           {
@@ -171,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas"
+                "file": "考研复习/线性代数错题集.md"
               },
               "icon": "lucide-list",
-              "title": "作文 的大纲"
+              "title": "线性代数错题集 的大纲"
             }
           },
           {
@@ -209,13 +206,19 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/英语作文/英语作文.md",
+    "考研复习/线性代数.md",
+    "考研复习/线代补充.md",
+    "考研复习/未命名.md",
+    "考研复习/十年真题.md",
+    "考研复习/高等数学错题集.md",
+    "考研复习/数据结构.md",
+    "考研复习/概率论.md",
     "考研复习/英语作文/作文.canvas",
+    "考研复习/操作系统复习.md",
+    "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/images/Pasted image 20241123204648.png",
     "考研复习/英语作文/images/Pasted image 20241123203439.png",
     "考研复习/英语真题词汇.md",
-    "考研复习/未命名.md",
-    "考研复习/概率论.md",
     "考研复习/高等数学/高等数学.md",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
@@ -226,23 +229,17 @@
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/820真题/操作系统真题.md",
     "考研复习/英语作文/images/Pasted image 20241123034932.png",
-    "考研复习/操作系统复习.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/概率论错题集.md",
-    "考研复习/高等数学错题集.md",
-    "考研复习/线代补充.md",
-    "考研复习/线性代数.md",
     "考研复习/数学试卷错题/images/Pasted image 20241122165354.png",
     "考研复习/数学试卷错题/images/Pasted image 20241122165310.png",
     "考研复习/政治.md",
-    "考研复习/数据结构.md",
     "考研复习/英语作文/images/Pasted image 20241121194108.png",
     "考研复习/英语作文/模板.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241121153005.png",
     "考研复习/数学试卷错题/images/Pasted image 20241121152011.png",
     "考研复习/数学试卷错题/images/Pasted image 20241121151408.png",
     "考研复习/算错.md",
-    "考研复习/十年真题.md",
     "考研复习/英语近似词.md",
     "考研复习/线性代数错题集.md",
     "考研复习/820真题/images",
