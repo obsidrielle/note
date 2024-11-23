@@ -25,14 +25,17 @@
             "id": "8b7ca96b7afd88ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/英语真题词汇.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/英语作文/作文.canvas",
+                "viewState": {
+                  "x": -6268.011510806981,
+                  "y": -4440.991831347096,
+                  "zoom": -0.10138409794328307
+                }
               },
-              "icon": "lucide-file",
-              "title": "英语真题词汇"
+              "icon": "lucide-layout-dashboard",
+              "title": "作文"
             }
           },
           {
@@ -168,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语真题词汇.md"
+                "file": "考研复习/英语作文/作文.canvas"
               },
               "icon": "lucide-list",
-              "title": "英语真题词汇 的大纲"
+              "title": "作文 的大纲"
             }
           },
           {
@@ -206,6 +209,7 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
+    "考研复习/英语真题词汇.md",
     "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/未命名.md",
@@ -241,7 +245,6 @@
     "考研复习/十年真题.md",
     "考研复习/英语近似词.md",
     "考研复习/线性代数错题集.md",
-    "考研复习/英语真题词汇.md",
     "考研复习/820真题/images",
     "新建 文本文档.txt",
     "考研复习/数学试卷错题/images",
