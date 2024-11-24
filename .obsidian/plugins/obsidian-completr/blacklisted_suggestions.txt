@@ -8,3 +8,7 @@ bcc
 ABC
 ABCE
 abCov
+CBDA
+cad
+CADCD
+CADDC
