@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/高等数学.md",
+                "file": "考研复习/820真题/操作系统真题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高等数学"
+              "title": "操作系统真题"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/高等数学.md"
+                "file": "考研复习/820真题/操作系统真题.md"
               },
               "icon": "lucide-list",
-              "title": "高等数学 的大纲"
+              "title": "操作系统真题 的大纲"
             }
           },
           {
@@ -191,8 +191,9 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/未命名.md",
     "考研复习/820真题/2024 模拟一.canvas",
+    "考研复习/高等数学/高等数学.md",
+    "考研复习/未命名.md",
     "考研复习/算错.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241126140422.png",
@@ -201,7 +202,6 @@
     "考研复习/概率论.md",
     "考研复习/images/Pasted image 20241126122542.png",
     "考研复习/images/Pasted image 20241126122530.png",
-    "考研复习/高等数学/高等数学.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学真题整理.md",
