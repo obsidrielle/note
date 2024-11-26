@@ -4138,6 +4138,8 @@ dynamism
 dicount
 dac
 dcf
+diagnosed
+decide
 EX
 EXEY
 EY
@@ -5195,6 +5197,7 @@ attempted
 appreciation
 available
 announced
+acceptance
 bY
 bEY
 begin
@@ -7665,6 +7668,7 @@ pursuit
 psychology
 pride
 play
+problems
 DX
 DY
 DB
@@ -22337,6 +22341,7 @@ FZB
 Finally
 Four
 Feel
+Friend
 qoyQLYRP
 qh
 qcuu
