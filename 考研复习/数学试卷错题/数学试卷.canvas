@@ -6,7 +6,8 @@
 		{"id":"6b10f48993c289bd","type":"group","x":3520,"y":1540,"width":1320,"height":1600,"color":"4","label":"25超越第四套"},
 		{"id":"9b5a4f13a06f2b5b","type":"group","x":1080,"y":608,"width":1540,"height":820,"color":"5","label":"25李林第二套"},
 		{"id":"dab014921f8abc51","type":"group","x":5160,"y":1480,"width":1200,"height":980,"color":"4","label":"2025超越第五套"},
-		{"id":"703134dcbb2a09e2","type":"group","x":6540,"y":1480,"width":1080,"height":720,"color":"1","label":"25超越第七套"},
+		{"id":"29d524c6fb674155","x":6540,"y":2301,"width":1080,"height":998,"color":"1","type":"group","label":"25超越第八套"},
+		{"id":"703134dcbb2a09e2","type":"group","x":6540,"y":1480,"width":1080,"height":730,"color":"1","label":"25超越第七套"},
 		{"id":"8b06642f1d167058","type":"group","x":-900,"y":280,"width":771,"height":655,"color":"1","label":"25李擂2"},
 		{"id":"4db9ba12b6c96b00","type":"group","x":20,"y":-480,"width":720,"height":664,"color":"1","label":"25李擂3"},
 		{"id":"fdff3951cd6367f7","type":"group","x":-900,"y":-480,"width":717,"height":622,"color":"1","label":"25李擂第一套"},
@@ -43,7 +44,7 @@
 		{"id":"dcf5834d7f4701d0","type":"text","text":"![[Pasted image 20241124142328.png]]","x":6560,"y":1500,"width":1040,"height":420},
 		{"id":"5d1f276f7cc0e63b","type":"text","text":"$$\nds = \\sqrt{ 1+y'^2(x) } = \\dfrac{\\sqrt{ 5-3xy }}{|2y-x|}\n$$\n$$\nI=\\int_{L} (y^2-2x)dx = \\int^{0}_{-1}1-x^2 = \\dfrac{2}{3}\n$$","x":6560,"y":1979,"width":1040,"height":201},
 		{"id":"f86cd2ed97e95550","x":6560,"y":2321,"width":1040,"height":279,"type":"text","text":"![[Pasted image 20241126135822.png]]"},
-		{"id":"70ed449477bb9992","x":6560,"y":2640,"width":1040,"height":300,"type":"text","text":"可知 $A(1,1,1,1)^T=0$. $AA^*=O$, $A^*$ 的列均为 $Ax=0$ 的解. 若 $r(A)<3$, 则 $r(A^*)=0,A^*=O$, 此时都成立.\n若 $r(A)=3,r(A^*)=1$ 此时 $k(1,1,1,1)^T$ 是 $Ax=0$ 的基础解系, 故 $AA^*=0$ 则 $A^*$ 的每一列也是 $k(1,1,1,1)^T$. 故一定有 $A_{21}=A_{22}=A_{23}=A_{24},M_{21}=-M_{22}$ "},
+		{"id":"70ed449477bb9992","x":6560,"y":2640,"width":1040,"height":300,"type":"text","text":"可知 $A(1,1,1,1)^T=0$. $AA^*=O$, $A^*$ 的列均为 $Ax=0$ 的解. 若 $r(A)<3$, 则 $r(A^*)=0,A^*=O$, 此时都成立.\n若 $r(A)=3,r(A^*)=1$ 此时 $k(1,1,1,1)^T$ 是 $Ax=0$ 的基础解系, 故 $AA^*=0$ 则 $A^*$ 的每一列也是 $k(1,1,1,1)^T$. 故一定有 $A_{21}=A_{22}=A_{23}=A_{24},M_{21}=-M_{22}=M_{23}=-M_{24}$. 故 $1,4$ 正确. "},
 		{"id":"c6fe0b0d511ffc9b","x":6560,"y":3000,"width":1040,"height":279,"type":"text","text":"![[Pasted image 20241126140422.png]]\n\n\n可知 $Y=|X_{1}-X_{2}|$, 因此计算 $|X_{1}-X_{2}|$ 即可."}
 	],
 	"edges":[
