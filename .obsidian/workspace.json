@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/操作系统复习.md",
+                "file": "考研复习/真题压轴同源150.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统复习"
+              "title": "真题压轴同源150"
             }
           },
           {
@@ -85,6 +85,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "46fdba74f1f71757",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -153,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/操作系统复习.md"
+                "file": "考研复习/真题压轴同源150.md"
               },
               "icon": "lucide-list",
-              "title": "操作系统复习 的大纲"
+              "title": "真题压轴同源150 的大纲"
             }
           },
           {
@@ -191,42 +201,46 @@
   },
   "active": "8b7ca96b7afd88ae",
   "lastOpenFiles": [
-    "考研复习/高等数学/高等数学.md",
-    "考研复习/820真题/操作系统真题.md",
-    "考研复习/概率论.md",
-    "考研复习/概率论错题集.md",
+    "考研复习/数据结构.md",
+    "考研复习/十年真题.md",
     "考研复习/未命名.md",
-    "考研复习/数学试卷错题/数学试卷错题.md",
-    "考研复习/数学试卷错题/数学试卷.canvas",
-    "考研复习/数学试卷错题/images/Pasted image 20241127132015.png",
+    "考研复习/线代补充.md",
+    "考研复习/线性代数.md",
+    "考研复习/线性代数错题集.md",
+    "考研复习/高等数学/高等数学.md",
+    "考研复习/高等数学/级数审敛.canvas",
     "考研复习/算错.md",
-    "考研复习/英语作文/作文.canvas",
+    "考研复习/数学试卷错题/数学试卷错题.md",
+    "考研复习/数学试卷错题/数学真题整理.md",
+    "考研复习/数学试卷错题/证明题.canvas",
+    "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/英语作文/英语作文.md",
     "考研复习/操作系统复习.md",
+    "考研复习/英语作文/作文.canvas",
+    "考研复习/概率论错题集.md",
+    "考研复习/英语作文/images/3e77b3a919fed56e2cc4b455498fbb0d.png",
+    "考研复习/英语作文/images/Pasted image 20241130210719.png",
+    "考研复习/政治/十页纸.canvas",
+    "考研复习/政治",
+    "考研复习/概率论.md",
+    "考研复习/高等数学错题集.md",
+    "考研复习/真题压轴同源150.md",
+    "考研复习/政治.md",
+    "考研复习/820真题/2024 模拟一.canvas",
+    "杂项/Arch Linux.md",
+    "杂项/vscode.md",
+    "考研复习/images/8cccc36cf5b55a350292c96d9d888294_720.jpg",
+    "考研复习/英语作文/images/Pasted image 20241128213541.png",
+    "考研复习/英语作文/images/Pasted image 20241128211844.png",
+    "考研复习/英语作文/images/Pasted image 20241128211757.png",
+    "考研复习/英语真题词汇.md",
+    "考研复习/英语近似词.md",
+    "考研复习/820真题/操作系统真题.md",
+    "考研复习/数学试卷错题/images/Pasted image 20241127132015.png",
     "考研复习/英语作文/images/Pasted image 20241126205835.png",
     "考研复习/英语作文/images/Pasted image 20241126204121.png",
-    "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/数学试卷错题/images/Pasted image 20241126140422.png",
-    "考研复习/数学试卷错题/images/Pasted image 20241126135822.png",
-    "考研复习/线代补充.md",
-    "考研复习/images/Pasted image 20241126122542.png",
-    "考研复习/images/Pasted image 20241126122530.png",
-    "考研复习/真题压轴同源150.md",
-    "考研复习/数学试卷错题/数学真题整理.md",
-    "考研复习/线性代数.md",
-    "考研复习/高等数学错题集.md",
-    "考研复习/数学试卷错题/证明题.canvas",
-    "考研复习/高等数学/images/Pasted image 20241030134444.png",
-    "考研复习/数学试卷错题/images/Pasted image 20241124142328.png",
-    "考研复习/十年真题.md",
-    "考研复习/数据结构.md",
-    "考研复习/线性代数错题集.md",
-    "考研复习/英语作文/images/Pasted image 20241123204648.png",
-    "考研复习/英语真题词汇.md",
-    "考研复习/高等数学/级数审敛.canvas",
-    "考研复习/政治.md",
     "考研复习/英语作文/模板.canvas",
-    "考研复习/英语近似词.md",
     "考研复习/820真题/images",
     "新建 文本文档.txt",
     "考研复习/数学试卷错题/images",
@@ -236,15 +250,11 @@
     "考研复习/未命名.canvas",
     "考研复习/未命名 1.md",
     "考研复习/820真题",
-    "杂项/vscode.md",
-    "杂项/Arch Linux.md",
     "考研复习/高等数学/images",
     "考研复习/高等数学/基本性质.md",
     "考研复习/高等数学",
     "线性代数错题集.canvas",
-    "images",
     "考研复习/测试/行列式.md",
-    "行列式.canvas",
-    "求二次型的解.canvas"
+    "行列式.canvas"
   ]
 }
