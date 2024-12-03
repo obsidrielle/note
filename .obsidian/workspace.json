@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "考研复习/未命名.canvas",
+                "file": "考研复习/优化计算.canvas",
                 "viewState": {
-                  "x": -740.5958018317231,
-                  "y": -109.10237296311153,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -620.3909078791398,
+                  "y": 4634.385371678141,
+                  "zoom": 0.39074149449773915
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "优化计算"
             }
           }
         ]
@@ -152,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.canvas"
+                "file": "考研复习/优化计算.canvas"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "优化计算 的大纲"
             }
           },
           {
@@ -190,16 +190,23 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/未命名.md",
+    "考研复习/概率论.md",
+    "考研复习/优化计算.canvas",
+    "考研复习/真题压轴同源150.md",
+    "考研复习/操作系统复习.md",
+    "考研复习/算错.md",
+    "考研复习/images/Pasted image 20241203145929.png",
+    "考研复习/images/Pasted image 20241203145735.png",
+    "考研复习/images/Pasted image 20241203145216.png",
+    "考研复习/images/Pasted image 20241203144814.png",
     "考研复习/images/389e941b37f351ae3923b14cf9ad291d.png",
     "考研复习/images/83fe16b1e53994daa266dadc4af58e6e.png",
-    "考研复习/未命名.md",
     "考研复习/线性代数.md",
-    "考研复习/未命名.canvas",
     "考研复习/images/47a838ab45dae01ae2382e7a69902eab.jpg",
     "考研复习/images/Pasted image 20241203133750.png",
     "考研复习/images/Pasted image 20241203125917.png",
     "考研复习/images/Pasted image 20241203124819.png",
-    "考研复习/操作系统复习.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/数学试卷错题/数学真题整理.md",
@@ -207,11 +214,8 @@
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/高等数学.md",
     "考研复习/数学试卷错题/证明题.canvas",
-    "考研复习/概率论.md",
     "考研复习/线代补充.md",
-    "考研复习/算错.md",
     "考研复习/数据结构.md",
-    "考研复习/真题压轴同源150.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/英语作文/英语作文.md",
     "考研复习/高等数学/级数审敛.canvas",
@@ -223,15 +227,10 @@
     "考研复习/政治.md",
     "考研复习/英语真题词汇.md",
     "考研复习/概率论错题集.md",
-    "考研复习/英语作文/images/3e77b3a919fed56e2cc4b455498fbb0d.png",
-    "考研复习/英语作文/images/Pasted image 20241130210719.png",
     "考研复习/政治/十页纸.canvas",
     "考研复习/政治",
     "杂项/Arch Linux.md",
     "杂项/vscode.md",
-    "考研复习/images/8cccc36cf5b55a350292c96d9d888294_720.jpg",
-    "考研复习/英语作文/images/Pasted image 20241128213541.png",
-    "考研复习/英语作文/images/Pasted image 20241128211844.png",
     "考研复习/英语作文/模板.canvas",
     "考研复习/820真题/images",
     "新建 文本文档.txt",
