@@ -3008,6 +3008,8 @@ culturally
 come
 ceac
 cfeba
+cace
+cfdf
 int
 infty
 iff
@@ -5220,6 +5222,8 @@ aeee
 aefc
 ayx
 aed
+aef
+afb
 bY
 bEY
 begin
@@ -5776,6 +5780,7 @@ brightness
 bbd
 beha
 bbad
+bfd
 right
 rho
 rP
