@@ -11,17 +11,14 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/优化计算.canvas",
-                "viewState": {
-                  "x": 4041.315603762847,
-                  "y": -1854.1826915325616,
-                  "zoom": 0.045412967030299956
-                }
+                "file": "考研复习/数学试卷错题/数学试卷错题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "优化计算"
+              "icon": "lucide-file",
+              "title": "数学试卷错题"
             }
           }
         ]
@@ -152,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/优化计算.canvas"
+                "file": "考研复习/数学试卷错题/数学试卷错题.md"
               },
               "icon": "lucide-list",
-              "title": "优化计算 的大纲"
+              "title": "数学试卷错题 的大纲"
             }
           },
           {
@@ -190,18 +187,18 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/数学试卷错题/数学真题整理.md",
+    "考研复习/优化计算.canvas",
     "考研复习/images/Pasted image 20241203165918.png",
     "考研复习/images/Pasted image 20241203164711.png",
     "考研复习/images/Pasted image 20241203164603.png",
     "考研复习/images/Pasted image 20241203164156.png",
     "考研复习/images/Pasted image 20241203163304.png",
-    "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/线性代数.md",
     "考研复习/未命名.md",
     "考研复习/线代补充.md",
-    "考研复习/优化计算.canvas",
     "考研复习/英语真题词汇.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/高等数学/级数审敛.canvas",
@@ -215,7 +212,6 @@
     "考研复习/images/Pasted image 20241203154724.png",
     "考研复习/images/49b449e8c9dbc19ff0cd3d5cdbc078b7.png",
     "考研复习/images/Pasted image 20241203153403.png",
-    "考研复习/images/3c0341474e8791f953e1b74dc0d9bd41.jpg",
     "考研复习/概率论.md",
     "考研复习/操作系统复习.md",
     "考研复习/算错.md",
