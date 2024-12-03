@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"8f8cf8e0efae1cc3","x":-502,"y":-509,"width":250,"height":60,"color":"1","type":"text","text":"# 隐函数求导"},
+		{"id":"ed8d9e272126c990","x":-502,"y":-449,"width":662,"height":469,"type":"text","text":""}
+	],
+	"edges":[]
+}
