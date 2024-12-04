@@ -11,14 +11,17 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/优化计算.canvas",
+                "viewState": {
+                  "x": 2904.936054510635,
+                  "y": 2232.2214705117553,
+                  "zoom": -0.9545870329696999
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "优化计算"
             }
           }
         ]
@@ -149,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.md"
+                "file": "考研复习/优化计算.canvas"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "优化计算 的大纲"
             }
           },
           {
@@ -187,6 +190,7 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/未命名.md",
     "考研复习/算错.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学真题整理.md",
@@ -200,7 +204,6 @@
     "考研复习/images/Pasted image 20241203164156.png",
     "考研复习/images/Pasted image 20241203163304.png",
     "考研复习/数学试卷错题/数学试卷.canvas",
-    "考研复习/未命名.md",
     "考研复习/线代补充.md",
     "考研复习/英语真题词汇.md",
     "考研复习/高等数学/级数审敛.canvas",
