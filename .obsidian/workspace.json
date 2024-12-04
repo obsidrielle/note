@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/操作系统复习.md",
+                "file": "考研复习/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统复习"
+              "title": "未命名"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/操作系统复习.md"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "操作系统复习 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/操作系统复习.md",
     "考研复习/820真题/操作系统真题.md",
     "考研复习/高等数学/高等数学.md",
     "考研复习/高等数学/级数审敛.canvas",
@@ -215,7 +216,6 @@
     "考研复习/英语真题词汇.md",
     "考研复习/政治.md",
     "考研复习/概率论.md",
-    "考研复习/操作系统复习.md",
     "考研复习/数据结构.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/英语作文/英语作文.md",
