@@ -3013,6 +3013,7 @@ cfdf
 cebe
 cfed
 ccd
+cbe
 int
 infty
 iff
@@ -5233,6 +5234,7 @@ aac
 aafc
 afde
 afc
+afe
 bY
 bEY
 begin
@@ -5795,6 +5797,7 @@ bebe
 bdc
 bcedd
 bbf
+bec
 right
 rho
 rP
@@ -9350,6 +9353,7 @@ eecdfdc
 eeeb
 ecd
 ebddab
+eaede
 geq
 gww
 gggxh
