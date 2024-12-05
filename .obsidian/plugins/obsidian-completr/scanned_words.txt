@@ -3016,6 +3016,8 @@ cfed
 ccd
 cbe
 cdot
+caf
+calcChain
 int
 infty
 iff
@@ -4169,6 +4171,7 @@ dbeb
 dydz
 dxdz
 dzdx
+dang
 EX
 EXEY
 EY

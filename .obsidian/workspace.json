@@ -15,13 +15,25 @@
               "state": {
                 "file": "考研复习/高等数学/未命名.canvas",
                 "viewState": {
-                  "x": 641.8791308396012,
-                  "y": 649.1273084305369,
-                  "zoom": 0.36605699393411417
+                  "x": 2852.416881711165,
+                  "y": -173.14492745745088,
+                  "zoom": 0.48317373554400495
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "未命名"
+            }
+          },
+          {
+            "id": "48f3e6ce47fda966",
+            "type": "leaf",
+            "state": {
+              "type": "spreadsheet-view",
+              "state": {
+                "file": "Untitled.sheet"
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -169,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,13 +202,20 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/高等数学/images/a6a90f0e5ec7019bb3134fe1c9b091f2.png",
+    "考研复习/高等数学/images/Pasted image 20241205155309.png",
+    "Untitled.sheet",
+    "考研复习/高等数学/未命名.canvas",
+    "考研复习/数学试卷错题/数学试卷.canvas",
+    "考研复习/数学试卷错题/数学真题整理.md",
+    "考研复习/数据结构.md",
+    "考研复习/概率论.md",
+    "考研复习/操作系统复习.md",
     "考研复习/高等数学/images/Pasted image 20241205151452.png",
     "考研复习/高等数学/高等数学.md",
-    "考研复习/高等数学/未命名.canvas",
     "考研复习/高等数学/images/Pasted image 20241205150431.png",
     "考研复习/高等数学/images/Pasted image 20241205144549.png",
     "考研复习/高等数学/images/Pasted image 20241205143305.png",
-    "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/820真题/操作系统真题.md",
     "考研复习/820真题/分题型.md",
@@ -204,7 +223,6 @@
     "考研复习/高等数学/images/Pasted image 20241205140413.png",
     "考研复习/高等数学/images/Pasted image 20241205140409.png",
     "考研复习/高等数学/images/Pasted image 20241205135353.png",
-    "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/证明题.canvas",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/images/Pasted image 20241205134336.png",
@@ -215,13 +233,8 @@
     "考研复习/算错.md",
     "考研复习/线性代数.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
-    "考研复习/820真题/images/Pasted image 20241204221139.png",
-    "考研复习/820真题/images/Pasted image 20241204221121.png",
-    "考研复习/操作系统复习.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/政治.md",
-    "考研复习/概率论.md",
-    "考研复习/数据结构.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/英语作文/英语作文.md",
     "经典书籍/SICP.md",
@@ -244,7 +257,6 @@
     "考研复习/未命名 1.md",
     "考研复习/820真题",
     "考研复习/高等数学/images",
-    "考研复习/高等数学",
     "线性代数错题集.canvas"
   ]
 }
