@@ -11,16 +11,13 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/未命名.canvas",
-                "viewState": {
-                  "x": -5143.043698376612,
-                  "y": 3756.4225718778584,
-                  "zoom": -0.22924984919528674
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "未命名"
             }
           },
@@ -202,10 +199,10 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/高等数学/未命名.canvas",
     "考研复习/高等数学/images/Pasted image 20241205200948.png",
     "考研复习/未命名.md",
     "考研复习/算错.md",
-    "考研复习/高等数学/未命名.canvas",
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/优化计算.canvas",
     "考研复习/高等数学/images/a6a90f0e5ec7019bb3134fe1c9b091f2.png",
@@ -226,7 +223,6 @@
     "考研复习/高等数学/images/4744ed99b2223c5058157f7ed97fe3ab.jpg",
     "考研复习/高等数学/images/Pasted image 20241205140413.png",
     "考研复习/高等数学/images/Pasted image 20241205140409.png",
-    "考研复习/高等数学/images/Pasted image 20241205135353.png",
     "考研复习/数学试卷错题/证明题.canvas",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/英语真题词汇.md",
