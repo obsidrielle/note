@@ -11,17 +11,14 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/优化计算.canvas",
-                "viewState": {
-                  "x": -469.81637068368656,
-                  "y": 2888.4408892237525,
-                  "zoom": -0.28792036630303336
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "优化计算"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -164,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/优化计算.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "优化计算 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -202,9 +199,9 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/优化计算.canvas",
     "考研复习/真题压轴同源150.md",
     "考研复习/政治.md",
-    "考研复习/优化计算.canvas",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/未命名.canvas",
     "考研复习/高等数学/级数审敛.canvas",
