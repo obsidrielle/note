@@ -11,17 +11,14 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas",
-                "viewState": {
-                  "x": -12821.319922406437,
-                  "y": 5379.012954989123,
-                  "zoom": -1
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "作文"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -164,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "作文 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -202,9 +199,9 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/英语作文/作文.canvas",
     "考研复习/英语作文/images/Pasted image 20241207200400.png",
     "考研复习/英语作文/英语作文.md",
-    "考研复习/英语作文/作文.canvas",
     "考研复习/未命名.md",
     "考研复习/高等数学/高等数学.md",
     "考研复习/数学试卷错题/数学真题整理.md",
@@ -235,7 +232,6 @@
     "考研复习/高等数学/images/Pasted image 20241205143305.png",
     "考研复习/820真题/分题型.md",
     "考研复习/高等数学/images/4744ed99b2223c5058157f7ed97fe3ab.jpg",
-    "考研复习/高等数学/images/Pasted image 20241205140413.png",
     "考研复习/线性代数.md",
     "经典书籍/SICP.md",
     "考研复习/高等数学错题集.md",
