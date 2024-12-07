@@ -3619,6 +3619,7 @@ iint
 iDy
 ieS
 insights
+ignorant
 dx
 dfrac
 dxdy
@@ -4206,6 +4207,7 @@ dzdx
 dang
 dBZF
 diversity
+dross
 EX
 EXEY
 EY
@@ -5286,6 +5288,7 @@ afde
 afc
 afe
 appreciating
+arrogant
 bY
 bEY
 begin
@@ -5857,6 +5860,7 @@ bFk
 bvV
 bZC
 bfV
+blindly
 right
 rho
 rP
@@ -6403,6 +6407,8 @@ rRRS
 revive
 revitalization
 represent
+realized
+rejecting
 XY
 XZ
 XV
@@ -8834,6 +8840,7 @@ nqTL
 nThe
 nThose
 nTapping
+nTo
 end
 epsilon
 epO
@@ -9464,6 +9471,7 @@ eddUx
 eddd
 encourage
 elements
+extracting
 geq
 gww
 gggxh
