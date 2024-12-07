@@ -3608,6 +3608,7 @@ image
 iint
 iDy
 ieS
+insights
 dx
 dfrac
 dxdy
@@ -9441,6 +9442,7 @@ eAj
 eBDD
 eddUx
 eddd
+encourage
 geq
 gww
 gggxh
