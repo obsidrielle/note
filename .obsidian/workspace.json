@@ -11,14 +11,17 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/高等数学/线面.canvas",
+                "viewState": {
+                  "x": 2572.296236346966,
+                  "y": -143.4606044666881,
+                  "zoom": -0.22924984919528674
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "线面"
             }
           },
           {
@@ -161,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.md"
+                "file": "考研复习/高等数学/线面.canvas"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "线面 的大纲"
             }
           },
           {
@@ -194,15 +197,18 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "spreadsheets:New Spreadsheet": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/高等数学/线面.canvas",
+    "考研复习/算错.md",
+    "考研复习/未命名.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/英语作文/images/Pasted image 20241207223645.png",
     "考研复习/英语作文/英语作文.md",
-    "考研复习/未命名.md",
     "考研复习/优化计算.canvas",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/英语作文/images/Pasted image 20241207200400.png",
@@ -214,13 +220,11 @@
     "考研复习/真题压轴同源150.md",
     "考研复习/政治.md",
     "考研复习/820真题/2024 模拟一.canvas",
-    "考研复习/高等数学/未命名.canvas",
     "考研复习/高等数学/级数审敛.canvas",
     "考研复习/820真题/操作系统真题.md",
     "考研复习/英语真题词汇.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/高等数学/images/Pasted image 20241205200948.png",
-    "考研复习/算错.md",
     "考研复习/高等数学/images/a6a90f0e5ec7019bb3134fe1c9b091f2.png",
     "考研复习/高等数学/images/Pasted image 20241205155309.png",
     "Untitled.sheet",
