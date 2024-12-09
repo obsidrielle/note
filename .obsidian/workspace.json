@@ -11,17 +11,14 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas",
-                "viewState": {
-                  "x": -13321.099717518064,
-                  "y": 5492.112343961826,
-                  "zoom": 0.029729135019447184
-                }
+                "file": "考研复习/高等数学/高等数学.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "作文"
+              "icon": "lucide-file",
+              "title": "高等数学"
             }
           },
           {
@@ -164,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas"
+                "file": "考研复习/高等数学/高等数学.md"
               },
               "icon": "lucide-list",
-              "title": "作文 的大纲"
+              "title": "高等数学 的大纲"
             }
           },
           {
@@ -204,11 +201,11 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
-    "考研复习/英语作文/英语作文.md",
     "考研复习/英语作文/作文.canvas",
-    "考研复习/高等数学/线面.canvas",
     "考研复习/高等数学/高等数学.md",
     "考研复习/未命名.md",
+    "考研复习/英语作文/英语作文.md",
+    "考研复习/高等数学/线面.canvas",
     "考研复习/政治.md",
     "考研复习/操作系统复习.md",
     "考研复习/优化计算.canvas",
