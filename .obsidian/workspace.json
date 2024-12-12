@@ -28,17 +28,14 @@
             "id": "1e287071d8aa1958",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/线面.canvas",
-                "viewState": {
-                  "x": 555.9540274150022,
-                  "y": 6955.42573882784,
-                  "zoom": 0.10408348413804658
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "线面"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -182,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/线面.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "线面 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -222,6 +219,7 @@
   },
   "active": "1e287071d8aa1958",
   "lastOpenFiles": [
+    "考研复习/高等数学/线面.canvas",
     "考研复习/未命名.md",
     "考研复习/images/edf396cae7d4f21aeab74651e42834bd.jpeg",
     "考研复习/images/3448dd510f3db47490c4393adc285b43.jpeg",
@@ -236,7 +234,6 @@
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/级数审敛.canvas",
-    "考研复习/高等数学/线面.canvas",
     "考研复习/images/Pasted image 20241211232642.png",
     "考研复习/images/ae0fbbe9f9a8f269acb3c4532e1de5dc.png",
     "考研复习/英语作文/英语作文.md",
