@@ -8891,6 +8891,9 @@ nThe
 nThose
 nTapping
 nTo
+nThank
+nIt
+nIf
 end
 epsilon
 epO
@@ -16189,6 +16192,7 @@ wzF
 wwW
 wecloming
 warp
+week
 kw
 kA
 kW
@@ -19668,6 +19672,7 @@ festivals
 filled
 foreign
 firstly
+finds
 jk
 ju
 ji
