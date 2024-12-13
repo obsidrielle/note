@@ -28,14 +28,17 @@
             "id": "1e287071d8aa1958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/高等数学/线面.canvas",
+                "viewState": {
+                  "x": 110.6588774441401,
+                  "y": 1979.515239565119,
+                  "zoom": -3.3333333333333335
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "线面"
             }
           },
           {
@@ -179,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.md"
+                "file": "考研复习/高等数学/线面.canvas"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "线面 的大纲"
             }
           },
           {
@@ -219,8 +222,10 @@
   },
   "active": "1e287071d8aa1958",
   "lastOpenFiles": [
-    "考研复习/高等数学/线面.canvas",
+    "考研复习/操作系统复习.md",
+    "考研复习/820真题/操作系统真题.md",
     "考研复习/未命名.md",
+    "考研复习/高等数学/线面.canvas",
     "考研复习/images/edf396cae7d4f21aeab74651e42834bd.jpeg",
     "考研复习/images/3448dd510f3db47490c4393adc285b43.jpeg",
     "考研复习/数据结构.md",
@@ -240,11 +245,9 @@
     "考研复习/政治.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/images/1A5E1A1F.png",
-    "考研复习/操作系统复习.md",
     "考研复习/数学试卷错题/证明题.canvas",
     "考研复习/高等数学/线性代数.md",
     "考研复习/英语作文/images/Pasted image 20241208222107.png",
-    "考研复习/820真题/操作系统真题.md",
     "考研复习/820真题/分题型.md",
     "考研复习/高等数学/概率论.md",
     "考研复习/算错.md",
