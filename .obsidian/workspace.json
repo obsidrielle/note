@@ -11,17 +11,14 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas",
-                "viewState": {
-                  "x": -13259.671748344346,
-                  "y": 5530.6722785020875,
-                  "zoom": -0.30360419831388613
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "作文"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -169,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/英语作文/作文.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "作文 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -209,6 +206,7 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/英语作文/作文.canvas",
     "考研复习/高等数学/线面.canvas",
     "Untitled.sheet",
     "考研复习/高等数学/线性代数.md",
@@ -217,7 +215,6 @@
     "考研复习/操作系统复习.md",
     "考研复习/820真题/操作系统真题.md",
     "考研复习/真题压轴同源150.md",
-    "考研复习/英语作文/作文.canvas",
     "考研复习/英语作文/英语作文.md",
     "考研复习/高等数学/优化计算.canvas",
     "考研复习/高等数学/概率论.md",
