@@ -28,17 +28,14 @@
             "id": "1e287071d8aa1958",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/优化计算.canvas",
-                "viewState": {
-                  "x": 712.8084548087829,
-                  "y": 5305.28747523203,
-                  "zoom": -0.28792036630303336
-                }
+                "file": "考研复习/真题压轴同源150.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "优化计算"
+              "icon": "lucide-file",
+              "title": "真题压轴同源150"
             }
           },
           {
@@ -182,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/优化计算.canvas"
+                "file": "考研复习/真题压轴同源150.md"
               },
               "icon": "lucide-list",
-              "title": "优化计算 的大纲"
+              "title": "真题压轴同源150 的大纲"
             }
           },
           {
@@ -222,6 +219,7 @@
   },
   "active": "1e287071d8aa1958",
   "lastOpenFiles": [
+    "考研复习/高等数学/优化计算.canvas",
     "考研复习/高等数学/线面.canvas",
     "考研复习/高等数学/高等数学.md",
     "考研复习/未命名.md",
@@ -231,7 +229,6 @@
     "考研复习/英语真题词汇.md",
     "考研复习/高等数学/概率论.md",
     "考研复习/高等数学/亚当夏娃.canvas",
-    "考研复习/高等数学/优化计算.canvas",
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/证明题.canvas",
