@@ -4,8 +4,8 @@
   "monospaceFontFamily": "Casglistro,FiraCode Nerd Font",
   "baseFontSize": 18,
   "theme": "moonstone",
-  "interfaceFontFamily": "苹方,思源宋体 CN",
-  "textFontFamily": "青鸟华光楷宋",
+  "interfaceFontFamily": "苹方,思源宋体 CN,宋体-方正超大字符集",
+  "textFontFamily": "宋体-方正超大字符集",
   "enabledCssSnippets": [
     "图像居中"
   ]
