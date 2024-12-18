@@ -11,17 +11,14 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/冷门考点.canvas",
-                "viewState": {
-                  "x": -45.13182874815098,
-                  "y": 168.3997279018513,
-                  "zoom": 0.13490826105036724
-                }
+                "file": "考研复习/高等数学/概率论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "冷门考点"
+              "icon": "lucide-file",
+              "title": "概率论"
             }
           },
           {
@@ -169,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/冷门考点.canvas"
+                "file": "考研复习/高等数学/概率论.md"
               },
               "icon": "lucide-list",
-              "title": "冷门考点 的大纲"
+              "title": "概率论 的大纲"
             }
           },
           {
