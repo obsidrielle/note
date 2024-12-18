@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7d65db4ce9ce5ebc","type":"text","text":"# 傅里叶级数","x":-474,"y":-254,"width":250,"height":60,"color":"1"},
+		{"id":"13328ee9cad4d5b8","type":"text","text":"设 $f(x)$ 的周期是 $2l$, 则其的傅里叶级数是\n$$\nS(x)=\\textcolor{RED}{\\dfrac{a_{0}}{2}} + \\sum^{\\infty}_{n=1} \\left[ \\textcolor{RED}{a_{n}\\cos \\dfrac{n\\pi x}{l}}+\\textcolor{RED}{b_{n}\\sin \\dfrac{n\\pi x}{l}} \\right] \n$$\n其中\n$$\na_{n} = \\dfrac{1}{l} \\int^{l}_{-l} f(x) \\cos \\dfrac{n\\pi x}{l}dx\n$$\n$$\nb_{n} = \\dfrac{1}{l} \\int^{l}_{-l}f(x)\\sin \\dfrac{n\\pi x}{l} dx\n$$\n**偶延拓时**\n$$\na_{n} = \\dfrac{2}{l} \\int^{l}_{0}f(x) \\cos \\dfrac{n\\pi x}{l}dx,b_{n}=0\n$$\n**奇延拓时**\n$$\na_{n}=0,b_{n} = \\dfrac{2}{l} \\int^{l}_{0}f(x) \\sin \\dfrac{n\\pi x}{l}dx\n$$\n\n# 迪利克雷收敛定理\n\n1. 在 $f(x)$ 的**连续点 a**处, 收敛到 $f(a)$.\n2. 假设 $a$ 是 $f(x)$ 的第一类间断点, 则收敛到 $\\dfrac{\\lim_{ x \\to a^- }f(x)+\\lim_{ x \\to a^+ }f(x)}{2}$.\n\n>[!note] \n>谁说今年不考呢?\n\n","x":-474,"y":-194,"width":894,"height":794},
+		{"id":"7fae08fd1225a239","type":"text","text":"# 欧拉方程和伯努利方程","x":-474,"y":720,"width":414,"height":60,"color":"1"},
+		{"id":"5105cc7544250797","type":"text","text":"#","x":-474,"y":780,"width":894,"height":560}
+	],
+	"edges":[]
+}
