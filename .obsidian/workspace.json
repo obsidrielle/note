@@ -11,17 +11,14 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "考研复习/高等数学/亚当夏娃.canvas",
-                "viewState": {
-                  "x": -29.986774692206367,
-                  "y": -339.2290699698928,
-                  "zoom": -0.19119331352584895
-                }
+                "file": "考研复习/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "亚当夏娃"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -169,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/高等数学/亚当夏娃.canvas"
+                "file": "考研复习/未命名.md"
               },
               "icon": "lucide-list",
-              "title": "亚当夏娃 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -209,9 +206,10 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/真题压轴同源150.md",
+    "考研复习/高等数学/亚当夏娃.canvas",
     "考研复习/高等数学/线面.canvas",
     "考研复习/英语作文/作文.canvas",
-    "考研复习/高等数学/亚当夏娃.canvas",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/高等数学/冷门考点.canvas",
     "考研复习/高等数学/高等数学.md",
@@ -228,7 +226,6 @@
     "考研复习/高等数学/images/Pasted image 20241218123030.png",
     "考研复习/英语真题词汇.md",
     "考研复习/数据结构.md",
-    "考研复习/真题压轴同源150.md",
     "考研复习/政治.md",
     "Untitled.sheet",
     "SURSONG.TTF",
