@@ -8951,6 +8951,7 @@ nzhen
 nCov
 nChai
 neq
+nDouble
 end
 epsilon
 epO
