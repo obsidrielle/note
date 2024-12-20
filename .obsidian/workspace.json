@@ -11,14 +11,17 @@
             "id": "273516f80cf2a50f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "考研复习/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "考研复习/英语作文/作文.canvas",
+                "viewState": {
+                  "x": -12453.034099042738,
+                  "y": -1908.5137049153645,
+                  "zoom": 3.3306690738754696e-16
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "作文"
             }
           },
           {
@@ -166,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.md"
+                "file": "考研复习/英语作文/作文.canvas"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "作文 的大纲"
             }
           },
           {
@@ -206,10 +209,10 @@
   },
   "active": "273516f80cf2a50f",
   "lastOpenFiles": [
+    "考研复习/未命名.md",
     "考研复习/数学试卷错题/证明题.canvas",
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
-    "考研复习/未命名.md",
     "考研复习/英语作文/作文.canvas",
     "考研复习/高等数学/线性代数.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
