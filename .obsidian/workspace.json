@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/未命名.md",
+                "file": "编程语言/haskell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "haskell"
+            }
+          },
+          {
+            "id": "d3329d437e4a838c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "编程语言/Drawing 2024-12-29 19.13.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-29 19.13.35.excalidraw"
             }
           },
           {
@@ -38,7 +50,8 @@
               "title": "线面"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/未命名.md"
+                "file": "编程语言/Drawing 2024-12-29 19.13.35.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Drawing 2024-12-29 19.13.35.excalidraw 的大纲"
             }
           },
           {
@@ -200,14 +213,18 @@
       "publish:发布更改": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "spreadsheets:New Spreadsheet": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "273516f80cf2a50f",
+  "active": "d3329d437e4a838c",
   "lastOpenFiles": [
+    "编程语言/haskell.md",
+    "编程语言/Drawing 2024-12-29 19.13.35.excalidraw.md",
+    "编程语言/未命名.canvas",
+    "考研复习/未命名.md",
     "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
-    "考研复习/未命名.md",
     "考研复习/高等数学/高等数学.md",
     "考研复习/高等数学/概率论.md",
     "考研复习/高等数学/级数审敛.canvas",
@@ -248,7 +265,6 @@
     "考研复习/英语近似词.md",
     "考研复习/线性代数错题集.md",
     "考研复习/概率论错题集.md",
-    "考研复习/政治/十页纸.canvas",
     "考研复习/政治",
     "杂项/Arch Linux.md",
     "杂项/vscode.md",
@@ -258,7 +274,6 @@
     "考研复习/数学试卷错题",
     "考研复习/英语作文/images",
     "考研复习/英语作文",
-    "考研复习/未命名 1.md",
     "考研复习/820真题"
   ]
 }
