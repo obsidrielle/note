@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/数学试卷错题/数学真题整理.md",
+                "file": "考研复习/高等数学/线性代数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数学真题整理"
+              "title": "线性代数"
             }
           },
           {
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研复习/数学试卷错题/数学真题整理.md",
+                "file": "考研复习/高等数学/线性代数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数学真题整理 的大纲"
+              "title": "线性代数 的大纲"
             }
           },
           {
@@ -236,15 +236,24 @@
   },
   "active": "0602f4286d7c9c24",
   "lastOpenFiles": [
-    "考研复习/数学试卷错题/数学试卷错题.md",
-    "考研复习/高等数学/亚当夏娃.canvas",
-    "考研复习/高等数学/线性代数.md",
-    "考研复习/高等数学/高等数学.md",
+    "考研复习/820真题/操作系统真题.md",
+    "考研复习/820真题/2024 模拟一.canvas",
+    "考研复习/820真题/images/Pasted image 20241204215812.png",
     "考研复习/操作系统复习.md",
-    "编程语言/Drawing 2024-12-29 19.13.35.excalidraw.md",
-    "编程语言/haskell.md",
-    "编程语言/未命名.canvas",
+    "考研复习/数据结构.md",
+    "考研复习/真题压轴同源150.md",
+    "考研复习/英语真题词汇.md",
     "考研复习/未命名.md",
+    "考研复习/政治.md",
+    "库和框架/burn - rust的深度学习库.md",
+    "考研复习/高等数学/线性代数.md",
+    "考研复习/数学试卷错题/数学真题整理.md",
+    "考研复习/数学试卷错题/数学试卷错题.md",
+    "考研复习/高等数学/高等数学.md",
+    "编程语言/haskell.md",
+    "考研复习/高等数学/亚当夏娃.canvas",
+    "编程语言/Drawing 2024-12-29 19.13.35.excalidraw.md",
+    "编程语言/未命名.canvas",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/高等数学/概率论.md",
     "考研复习/高等数学/级数审敛.canvas",
@@ -252,19 +261,12 @@
     "考研复习/高等数学/线面.canvas",
     "考研复习/英语作文/作文.canvas",
     "考研复习/数学试卷错题/证明题.canvas",
-    "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/英语作文/英语作文.md",
-    "考研复习/数据结构.md",
     "考研复习/820真题/分题型.md",
-    "考研复习/820真题/操作系统真题.md",
     "考研复习/英语作文/images/Pasted image 20241219154849.png",
     "考研复习/images/1A5E1A1F.png",
-    "考研复习/820真题/2024 模拟一.canvas",
-    "考研复习/真题压轴同源150.md",
     "考研复习/高等数学/优化计算.canvas",
     "考研复习/高等数学/images/Pasted image 20241218123030.png",
-    "考研复习/英语真题词汇.md",
-    "考研复习/政治.md",
     "Untitled.sheet",
     "SURSONG.TTF",
     "考研复习/高等数学/images/Pasted image 20241215124039.png",
@@ -273,7 +275,6 @@
     "考研复习/images/edf396cae7d4f21aeab74651e42834bd.jpeg",
     "考研复习/images/3448dd510f3db47490c4393adc285b43.jpeg",
     "考研复习/英语作文/images/Pasted image 20241212142517.png",
-    "考研复习/images/Pasted image 20241211232642.png",
     "考研复习/算错.md",
     "考研复习/线代补充.md",
     "经典书籍/SICP.md",
@@ -283,7 +284,6 @@
     "考研复习/线性代数错题集.md",
     "考研复习/概率论错题集.md",
     "考研复习/政治",
-    "杂项/Arch Linux.md",
     "考研复习/820真题/images",
     "新建 文本文档.txt",
     "考研复习/数学试卷错题/images",
