@@ -38,6 +38,13 @@ var blurLevels = {
   low: "5px",
   high: "15px"
 };
+var positionOptions = {
+  center: "center",
+  top: "top",
+  right: "right",
+  bottom: "bottom",
+  left: "left"
+};
 var UrlSettingsTab = class extends import_obsidian.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
@@ -76,6 +83,13 @@ var UrlSettingsTab = class extends import_obsidian.PluginSettingTab {
         await this.plugin.saveSettings();
       });
     });
+    new import_obsidian.Setting(containerEl).setName("Image Position").setDesc("Reposition the image in cases where the focus is not centered.").addDropdown((dropdown) => {
+      Object.entries(positionOptions).forEach(([key, value]) => dropdown.addOption(key, value));
+      dropdown.setValue(this.plugin.settings.position).onChange(async (value) => {
+        this.plugin.settings.position = value;
+        await this.plugin.saveSettings();
+      });
+    });
   }
   floatToPercent(value) {
     return Math.max(0, Math.min(1, value)) * 100;
@@ -90,7 +104,8 @@ var DEFAULT_SETTINGS = {
   imageUrl: "protocol://domain.tld/path/to/image.png",
   opacity: 0.3,
   bluriness: "low",
-  inputContrast: false
+  inputContrast: false,
+  position: "center"
 };
 var BackgroundPlugin2 = class extends import_obsidian2.Plugin {
   async onload() {
@@ -111,8 +126,13 @@ var BackgroundPlugin2 = class extends import_obsidian2.Plugin {
     doc.body.style.setProperty("--obsidian-editor-background-opacity", `${this.settings.opacity}`);
     doc.body.style.setProperty("--obsidian-editor-background-bluriness", `blur(${this.settings.bluriness})`);
     doc.body.style.setProperty("--obsidian-editor-background-input-contrast", this.settings.inputContrast ? "#ffffff17" : "none");
+    doc.body.style.setProperty("--obsidian-editor-background-line-padding", this.settings.inputContrast ? "1rem" : "0");
+    doc.body.style.setProperty("--obsidian-editor-background-position", this.settings.position);
   }
 };
 
 // main.ts
 var main_default = BackgroundPlugin2;
+
+
+/* nosourcemap */
