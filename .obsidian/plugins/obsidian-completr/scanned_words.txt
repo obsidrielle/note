@@ -4300,6 +4300,7 @@ dFH
 dnN
 dhy
 dWK
+double
 EX
 EXEY
 EY
@@ -6554,6 +6555,7 @@ rcw
 rHW
 rJJ
 rJrw
+return
 XY
 XZ
 XV
@@ -15862,6 +15864,7 @@ uyE
 uhR
 umh
 uEB
+unsigned
 wu
 whh
 wI
@@ -19937,6 +19940,7 @@ fYR
 ffB
 fpX
 fuQ
+float
 jk
 ju
 ji
