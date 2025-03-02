@@ -20,23 +20,6 @@
               "icon": "lucide-file",
               "title": "笔试简答题"
             }
-          },
-          {
-            "id": "1e287071d8aa1958",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "考研复习/高等数学/线面.canvas",
-                "viewState": {
-                  "x": -183.1765642863682,
-                  "y": 3266.9333567784556,
-                  "zoom": -0.029249849195287614
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "线面"
-            }
           }
         ]
       }
