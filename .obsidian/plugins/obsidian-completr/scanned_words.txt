@@ -8113,6 +8113,9 @@ CQV
 CLvw
 CFR
 CtM
+Corpus
+Contemporary
+COCA
 pm
 pi
 pF
@@ -13711,6 +13714,7 @@ LsZ
 LTZ
 LaF
 LAp
+Ludwig
 PNG
 PK
 PP
@@ -15020,6 +15024,7 @@ Vjp
 VSp
 VoS
 VUo
+Viewer
 ShiYz
 SW
 SSU
@@ -21098,6 +21103,7 @@ WyQc
 WOV
 WnMf
 Wfa
+Web
 Jg
 JE
 JEwj
@@ -23518,6 +23524,7 @@ GQaZ
 GwZ
 GMl
 GjW
+Google
 YY
 Yq
 YF
@@ -23863,6 +23870,8 @@ YVU
 YnK
 YVh
 YBP
+YouGlish
+YouTube
 NZ
 NLN
 NwsaS
@@ -24258,6 +24267,8 @@ NUXV
 Nqy
 NDH
 NOC
+Ngram
+News
 MMM
 Ms
 Mh
@@ -27405,6 +27416,7 @@ Atj
 APRa
 AnlR
 Akgh
+American
 ügR
 üNf
 üq
