@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研复习/操作系统复习.md",
+                "file": "导师.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统复习"
+              "title": "导师"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "0602f4286d7c9c24",
   "lastOpenFiles": [
+    "考研复习/操作系统复习.md",
     "导师.md",
     "考研复习/真题压轴同源150.md",
     "杂项/Arch Linux.md",
@@ -215,7 +216,6 @@
     "复式/笔试.md",
     "编程语言/C语言现代方法.md",
     "考研复习/高等数学/亚当夏娃.canvas",
-    "考研复习/操作系统复习.md",
     "Untitled.sheet",
     "英语/英文数据库.md",
     "英语",
