@@ -8116,6 +8116,7 @@ CtM
 Corpus
 Contemporary
 COCA
+CPI
 pm
 pi
 pF
@@ -15400,6 +15401,8 @@ Stc
 SuI
 SFYN
 STS
+SISD
+SIMD
 Kd
 KH
 KSS
@@ -24664,6 +24667,10 @@ Mqs
 MLf
 Mse
 Mask
+MISD
+MIMD
+MIPS
+MFLOPS
 zA
 zgrj
 zNz
