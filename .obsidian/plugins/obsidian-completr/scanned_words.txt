@@ -5236,6 +5236,7 @@ EBy
 EVr
 EwN
 EqUj
+EUROSYS
 aX
 aEX
 align
@@ -7197,6 +7198,8 @@ rHQ
 raWc
 rUK
 rNn
+rust
+rCore
 XY
 XZ
 XV
@@ -9381,6 +9384,7 @@ DYB
 DrsKn
 Dyy
 DMAC
+Dijkstra
 np
 nO
 neRo
@@ -12673,6 +12677,7 @@ UEE
 Ukb
 Ujvn
 UHP
+USENIX
 hat
 hi
 ht
@@ -13299,6 +13304,7 @@ hje
 hWJ
 hks
 hDu
+huffman
 LeetCode
 Lo
 LMM
@@ -13716,6 +13722,7 @@ LTZ
 LaF
 LAp
 Ludwig
+Linux
 PNG
 PK
 PP
@@ -15403,6 +15410,7 @@ SFYN
 STS
 SISD
 SIMD
+SoC
 Kd
 KH
 KSS
@@ -16180,6 +16188,7 @@ HQE
 HbK
 HYad
 Hix
+Host
 Qp
 QZ
 QNic
@@ -17002,6 +17011,8 @@ TIM
 TJD
 TiX
 TsQx
+TrustZone
+Top
 uc
 uE
 uH
@@ -23131,6 +23142,8 @@ Rse
 Rfk
 RQoH
 RBM
+Rust
+RISC
 GK
 GF
 GO
@@ -23528,6 +23541,7 @@ GwZ
 GMl
 GjW
 Google
+Guest
 YY
 Yq
 YF
@@ -24671,6 +24685,7 @@ MISD
 MIMD
 MIPS
 MFLOPS
+Minds
 zA
 zgrj
 zNz
@@ -27424,6 +27439,9 @@ APRa
 AnlR
 Akgh
 American
+ATC
+Arm
+Arch
 ügR
 üNf
 üq
