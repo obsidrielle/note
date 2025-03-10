@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "导师.md",
+                "file": "编程语言/rust/死灵之书.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "导师"
+              "title": "死灵之书"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "导师.md",
+                "file": "编程语言/rust/死灵之书.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "导师 的大纲"
+              "title": "死灵之书 的大纲"
             }
           },
           {
@@ -217,11 +217,14 @@
   },
   "active": "8d18829bf6414ebc",
   "lastOpenFiles": [
+    "日记/2025-03-10.md",
+    "编程语言/rust/死灵之书.md",
+    "编程语言/rust",
+    "导师.md",
     "日记/2025-03-07.md",
     "考研复习/高等数学/线性代数.md",
     "日记/2025-03-06.md",
     "算法/LeetCode 1793. 好子数组的最大分数(单调栈 双指针).md",
-    "导师.md",
     "考研复习/高等数学/高等数学.md",
     "考研复习/高等数学/概率论.md",
     "考研复习/操作系统复习.md",
@@ -243,8 +246,6 @@
     "英语/英文数据库.md",
     "日记/2025-03-03.md",
     "杂项/Arch Linux.md",
-    "考研复习/820真题/分题型.md",
-    "考研复习/820真题/操作系统真题.md",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/亚当夏娃.canvas",
     "Untitled.sheet",
@@ -271,7 +272,6 @@
     "考研复习/政治",
     "考研复习/820真题/images",
     "新建 文本文档.txt",
-    "考研复习/数学试卷错题/images",
-    "考研复习/数学试卷错题"
+    "考研复习/数学试卷错题/images"
   ]
 }
