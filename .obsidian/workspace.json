@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Pyenv 和 Poetry"
             }
+          },
+          {
+            "id": "76a17c04f4623634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poetry"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pyenv 和 Poetry.md",
+                "file": "Poetry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pyenv 和 Poetry 的大纲"
+              "title": "Poetry 的大纲"
             }
           },
           {
@@ -229,10 +243,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd6d09dbbe64cf07",
+  "active": "76a17c04f4623634",
   "lastOpenFiles": [
-    "日记/2025-03-11.md",
+    "images/Pasted image 20250311230424.png",
+    "images",
     "Pyenv 和 Poetry.md",
+    "Poetry.md",
+    "日记/2025-03-11.md",
     "导师.md",
     "考研复习/820真题/分题型.md",
     "编程语言/haskell.md",
@@ -258,8 +275,6 @@
     "考研复习/未命名.md",
     "复式/笔试.md",
     "日记/2025-03-05.md",
-    "复式/计组.md",
-    "杂项/vscode.md",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/亚当夏娃.canvas",
     "Untitled.sheet",
@@ -285,7 +300,6 @@
     "考研复习/images/3448dd510f3db47490c4393adc285b43.jpeg",
     "考研复习/政治",
     "考研复习/820真题/images",
-    "新建 文本文档.txt",
-    "考研复习/数学试卷错题/images"
+    "新建 文本文档.txt"
   ]
 }
