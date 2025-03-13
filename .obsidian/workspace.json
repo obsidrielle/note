@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2025-03-13.md",
+                "file": "编程语言/rust/unsafe注意点和api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-13"
+              "title": "unsafe注意点和api"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂项/Arch Linux.md",
+                "file": "编程语言/rust/unsafe注意点和api.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Arch Linux 的大纲"
+              "title": "unsafe注意点和api 的大纲"
             }
           },
           {
@@ -245,7 +245,11 @@
   },
   "active": "76a17c04f4623634",
   "lastOpenFiles": [
+    "编程语言/C语言现代方法.md",
+    "编程语言/rust/unsafe注意点和api.md",
+    "编程语言/haskell.md",
     "日记/2025-03-13.md",
+    "杂项/Arch Linux.md",
     "考研复习/820真题/操作系统真题.md",
     "日记/2025-03-12.md",
     "导师.md",
@@ -260,8 +264,6 @@
     "Pyenv 和 Poetry.md",
     "日记/2025-03-11.md",
     "考研复习/820真题/分题型.md",
-    "编程语言/haskell.md",
-    "编程语言/C语言现代方法.md",
     "库和框架/burn - rust的深度学习库.md",
     "日记/2025-03-10.md",
     "编程语言/rust/死灵之书.md",
@@ -279,8 +281,6 @@
     "考研复习/数学试卷错题/数学真题整理.md",
     "考研复习/真题压轴同源150.md",
     "考研复习/英语真题词汇.md",
-    "考研复习/未命名.md",
-    "复式/笔试.md",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/亚当夏娃.canvas",
     "Untitled.sheet",
