@@ -6,6 +6,7 @@
 
 参考资料：
 - [Rust Reference](https://rustwiki.org/zh-CN/reference/type-layout.html)
+- [Programing Rust](https://github.com/MeouSker77/ProgrammingRust)
 
 ## 类型布局
 
