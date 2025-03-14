@@ -5,7 +5,7 @@
   "baseFontSize": 18,
   "theme": "moonstone",
   "interfaceFontFamily": "苹方,思源宋体 CN,宋体-方正超大字符集",
-  "textFontFamily": "Aleo,Adamina,Quicksand,Nirmala UI,宋体-方正超大字符集,苹方-简,思源宋体 CN",
+  "textFontFamily": "Quicksand,Aleo,Adamina,Nirmala UI,宋体-方正超大字符集,苹方-简,思源宋体 CN",
   "enabledCssSnippets": [
     "图像居中",
     "weight"
