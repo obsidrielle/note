@@ -757,6 +757,15 @@ sDq
 sfm
 spu
 slln
+solving
+scripts
+stack
+steps
+sharpened
+structures
+systematic
+secured
+software
 to
 theta
 title
@@ -1439,6 +1448,7 @@ tQg
 tsQ
 tCc
 tts
+theoretical
 lambda
 left
 leq
@@ -2063,6 +2073,9 @@ lkkS
 ldM
 lomB
 lsnL
+languages
+logical
+led
 mu
 mom
 mW
@@ -2680,6 +2693,15 @@ mNQ
 mCx
 mUw
 mQs
+morning
+majoring
+materialize
+myself
+mastering
+multiple
+microkernel
+management
+models
 chi
 cL
 ccc
@@ -3442,6 +3464,19 @@ cmuk
 cSz
 cDQ
 cNQ
+capital
+coding
+creative
+constantly
+complex
+code
+communities
+collaborate
+control
+compete
+contests
+collaborating
+constraints
 int
 infty
 iff
@@ -4729,6 +4764,10 @@ dFel
 dTI
 dMh
 dVUfU
+distinguished
+developers
+dedicated
+design
 EX
 EXEY
 EY
@@ -5953,6 +5992,14 @@ asQRA
 aZbI
 ayy
 avp
+automation
+abstract
+agile
+algorithms
+awards
+algorithm
+actionable
+algorithmic
 bY
 bEY
 begin
@@ -6585,6 +6632,7 @@ bFPw
 bQTA
 biZ
 byI
+breaking
 right
 rho
 rP
@@ -7200,6 +7248,9 @@ rUK
 rNn
 rust
 rCore
+ranging
+resource
+reconcile
 XY
 XZ
 XV
@@ -8120,6 +8171,9 @@ Corpus
 Contemporary
 COCA
 CPI
+Chengdu
+Computer
+CCPC
 pm
 pi
 pF
@@ -8793,6 +8847,13 @@ pku
 pSz
 penghan
 python
+professors
+primary
+projects
+prestigious
+programming
+publish
+provably
 DX
 DY
 DB
@@ -9387,6 +9448,7 @@ Dyy
 DMAC
 Dijkstra
 Drop
+During
 np
 nO
 neRo
@@ -9953,6 +10015,7 @@ nYz
 nzkn
 nAta
 nLo
+name
 end
 epsilon
 epO
@@ -10651,6 +10714,11 @@ eug
 eWw
 eMAL
 eaR
+experimenting
+excites
+exposed
+efficient
+elegance
 geq
 gww
 gggxh
@@ -11218,6 +11286,7 @@ giU
 gNz
 gtU
 gnf
+graduate
 or
 orb
 oJC
@@ -11771,6 +11840,9 @@ owj
 ocog
 oYC
 oZL
+outlet
+optimizations
+operating
 xrightarrow
 xy
 xz
@@ -12680,6 +12752,7 @@ Ukb
 Ujvn
 UHP
 USENIX
+UESTC
 hat
 hi
 ht
@@ -13307,6 +13380,8 @@ hWJ
 hks
 hDu
 huffman
+hobby
+hardware
 LeetCode
 Lo
 LMM
@@ -14225,6 +14300,7 @@ PKk
 PkP
 Pretraining
 Pyenv
+Python
 IHDR
 IDATx
 Id
@@ -14650,6 +14726,7 @@ Iwx
 IDQ
 IQP
 ITn
+ICPC
 VUYK
 VX
 Vq
@@ -15414,6 +15491,9 @@ STS
 SISD
 SIMD
 SoC
+Sichuan
+SWPU
+Science
 Kd
 KH
 KSS
@@ -17016,6 +17096,7 @@ TiX
 TsQx
 TrustZone
 Top
+Technology
 uc
 uE
 uH
@@ -17611,6 +17692,7 @@ uFKp
 uuY
 uCD
 uestc
+ultimate
 wu
 whh
 wI
@@ -18203,6 +18285,7 @@ wcoo
 wgIOV
 wYZ
 wLU
+workflows
 kw
 kA
 kW
@@ -19743,6 +19826,8 @@ vot
 vOs
 viwi
 vBC
+version
+verification
 ZI
 ZA
 Zy
@@ -22160,6 +22245,11 @@ fzSx
 fYh
 fvv
 fwq
+freshman
+fundamental
+focusing
+foundations
+formal
 jk
 ju
 ji
@@ -23545,6 +23635,7 @@ GMl
 GjW
 Google
 Guest
+Good
 YY
 Yq
 YF
@@ -23892,6 +23983,7 @@ YVh
 YBP
 YouGlish
 YouTube
+Yigang
 NZ
 NLN
 NwsaS
