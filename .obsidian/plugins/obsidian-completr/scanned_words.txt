@@ -766,6 +766,7 @@ structures
 systematic
 secured
 software
+sized
 to
 theta
 title
@@ -4769,6 +4770,7 @@ distinguished
 developers
 dedicated
 design
+dangling
 EX
 EXEY
 EY
@@ -6634,6 +6636,7 @@ bQTA
 biZ
 byI
 breaking
+bytes
 right
 rho
 rP
@@ -9451,6 +9454,7 @@ DMAC
 Dijkstra
 Drop
 During
+DST
 np
 nO
 neRo
@@ -10018,6 +10022,7 @@ nzkn
 nAta
 nLo
 name
+null
 end
 epsilon
 epO
@@ -17101,6 +17106,7 @@ TsQx
 TrustZone
 Top
 Technology
+Trait
 uc
 uE
 uH
@@ -17697,6 +17703,9 @@ uuY
 uCD
 uestc
 ultimate
+unsafe
+usize
+unsized
 wu
 whh
 wI
@@ -24385,6 +24394,7 @@ NDH
 NOC
 Ngram
 News
+Null
 MMM
 Ms
 Mh
