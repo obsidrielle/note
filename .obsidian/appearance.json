@@ -1,11 +1,11 @@
 {
   "accentColor": "",
   "cssTheme": "Border",
-  "monospaceFontFamily": "Casglistro,FiraCode Nerd Font",
+  "monospaceFontFamily": "Hack FC Ligatured,Casglistro,FiraCode Nerd Font",
   "baseFontSize": 18,
   "theme": "moonstone",
   "interfaceFontFamily": "苹方,思源宋体 CN,宋体-方正超大字符集",
-  "textFontFamily": "Delius Unicase,Oleo Script Swash Caps,Playwrite CA,Andada Pro,宋体-方正超大字符集,苹方-简,思源宋体 CN",
+  "textFontFamily": "Aleo,Adamina,Quicksand,Nirmala UI,宋体-方正超大字符集,苹方-简,思源宋体 CN",
   "enabledCssSnippets": [
     "图像居中",
     "weight"
