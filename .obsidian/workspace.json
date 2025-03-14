@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复式/英语.md",
+                "file": "编程语言/rust/unsafe api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语"
+              "title": "unsafe api"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复式/英语.md",
+                "file": "编程语言/rust/unsafe api.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "英语 的大纲"
+              "title": "unsafe api 的大纲"
             }
           },
           {
@@ -245,11 +245,12 @@
   },
   "active": "76a17c04f4623634",
   "lastOpenFiles": [
-    "日记/2025-03-14.md",
+    "复式/计组.md",
+    "编程语言/rust/unsafe api.md",
     "复式/英语.md",
+    "日记/2025-03-14.md",
     "杂项/Arch Linux.md",
     "复式/笔试.md",
-    "编程语言/rust/unsafe注意点和api.md",
     "编程语言/C语言现代方法.md",
     "编程语言/haskell.md",
     "日记/2025-03-13.md",
@@ -279,7 +280,6 @@
     "考研复习/高等数学/概率论.md",
     "考研复习/操作系统复习.md",
     "考研复习/政治/十页纸.canvas",
-    "考研复习/数学试卷错题/数学试卷错题.md",
     "考研复习/数学试卷错题/数学试卷.canvas",
     "考研复习/820真题/2024 模拟一.canvas",
     "考研复习/高等数学/亚当夏娃.canvas",
