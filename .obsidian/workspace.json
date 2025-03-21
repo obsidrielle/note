@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "写作/学习的“阶梯性”.md",
+                "file": "复式/英语.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习的“阶梯性”"
+              "title": "英语"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "写作/学习的“阶梯性”.md",
+                "file": "复式/英语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习的“阶梯性” 的大纲"
+              "title": "英语 的大纲"
             }
           },
           {
@@ -202,8 +202,8 @@
   },
   "active": "cd6d09dbbe64cf07",
   "lastOpenFiles": [
-    "复式/英语.md",
     "写作/学习的“阶梯性”.md",
+    "复式/英语.md",
     "写作/仿写",
     "日记/2025-03-20.md",
     "写作",
