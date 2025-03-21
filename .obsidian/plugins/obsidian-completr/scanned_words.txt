@@ -773,6 +773,8 @@ synthesize
 structured
 stacks
 seeks
+strategically
+science
 to
 theta
 title
@@ -1460,6 +1462,7 @@ trait
 technical
 texts
 techniques
+tree
 lambda
 left
 leq
@@ -2089,6 +2092,8 @@ logical
 led
 limited
 leveraging
+locations
+located
 mu
 mom
 mW
@@ -3391,7 +3396,6 @@ comprises
 caption
 contributions
 contacts
-cheng
 cHRM
 close
 construction
@@ -3505,6 +3509,8 @@ convergence
 cognitive
 computing
 chose
+central
+corrsponds
 int
 infty
 iff
@@ -4141,6 +4147,7 @@ intelligent
 infrastructures
 innovations
 industrial
+intelligence
 dx
 dfrac
 dxdy
@@ -4807,6 +4814,8 @@ developments
 documentation
 digital
 dream
+disciplinary
+directly
 EX
 EXEY
 EY
@@ -6053,6 +6062,7 @@ advancing
 adoption
 always
 accomplishments
+artificial
 bY
 bEY
 begin
@@ -7313,6 +7323,8 @@ relaxed
 reflecting
 refines
 redefine
+recognized
+reowned
 XY
 XZ
 XV
@@ -8233,7 +8245,6 @@ Corpus
 Contemporary
 COCA
 CPI
-Chengdu
 Computer
 CCPC
 Complementing
@@ -10093,6 +10104,8 @@ name
 null
 news
 next
+necessarily
+nationally
 end
 epsilon
 epO
@@ -10808,6 +10821,7 @@ establish
 evolving
 entrance
 entering
+ecosystem
 geq
 gww
 gggxh
@@ -11377,6 +11391,8 @@ gtU
 gnf
 graduate
 greater
+goals
+geographical
 or
 orb
 oJC
@@ -11935,6 +11951,7 @@ optimizations
 operating
 operati
 optimization
+oriented
 xrightarrow
 xy
 xz
@@ -13897,6 +13914,8 @@ LaF
 LAp
 Ludwig
 Linux
+Lsm
+Logging
 PNG
 PK
 PP
@@ -15596,6 +15615,8 @@ Sichuan
 SWPU
 Science
 Southwest
+SSTable
+SStable
 Kd
 KH
 KSS
@@ -18396,6 +18417,7 @@ wLU
 workflows
 worldview
 workforce
+why
 kw
 kA
 kW
@@ -21320,6 +21342,7 @@ Web
 Why
 Whether
 Workforce
+Write
 Jg
 JE
 JEwj
@@ -24502,6 +24525,7 @@ NOC
 Ngram
 News
 Null
+NCF
 MMM
 Ms
 Mh
@@ -24902,6 +24926,7 @@ MIMD
 MIPS
 MFLOPS
 Minds
+MBRec
 zA
 zgrj
 zNz
@@ -27090,6 +27115,7 @@ Bgc
 BHL
 BdE
 BTrk
+BPR
 Aqkkkgg
 AL
 AroOO
@@ -27658,6 +27684,7 @@ American
 ATC
 Arm
 Arch
+Ahead
 ügR
 üNf
 üq
