@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复式/英语.md",
+                "file": "英语/translation/为什么叫亲人的名字很尴尬.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语"
+              "title": "为什么叫亲人的名字很尴尬"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复式/英语.md",
+                "file": "英语/translation/为什么叫亲人的名字很尴尬.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "英语 的大纲"
+              "title": "为什么叫亲人的名字很尴尬 的大纲"
             }
           },
           {
@@ -202,10 +202,12 @@
   },
   "active": "cd6d09dbbe64cf07",
   "lastOpenFiles": [
+    "算法/LeetCode Biweekly Contest 126.md",
+    "英语/translation/为什么叫亲人的名字很尴尬.md",
+    "复式/英语.md",
     "英语/常用.md",
     "算法/LeetCode Contest 390.md",
     "日记/2025-03-21.md",
-    "复式/英语.md",
     "写作/学习的“阶梯性”.md",
     "写作/仿写",
     "日记/2025-03-20.md",
@@ -229,8 +231,6 @@
     "日记/2025-03-14.md",
     "日记/2025-03-07.md",
     "导师.md",
-    "杂项/Arch Linux.md",
-    "编程语言/C语言现代方法.md",
     "images/Pasted image 20250311231500.png",
     "images/Pasted image 20250311231225.png",
     "images/Pasted image 20250311231055.png",
